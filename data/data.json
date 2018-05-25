@@ -2,1252 +2,1750 @@
   "categories": [
     {
       "url": "user-recruiting",
-      "name": "User Recruiting"
+      "name": "User Recruiting",
+      "description": "These resources will help you recruit users and remote testing your web, app or design"
     },
     {
       "url": "user-recording-heatmap",
-      "name": "User recording and Heatmaps"
+      "name": "User recording and Heatmaps",
+      "description": "These resources will help you record your users and learn from the way they intercat with your product"
     },
     {
       "url": "user-feedback",
-      "name": "User Feedback"
+      "name": "User Feedback",
+      "description": "These resources will help you gather your users' opinion on your product"
     },
     {
       "url": "onsite-surveys",
-      "name": "Onsite surveys"
+      "name": "Onsite surveys",
+      "description": "These resources will help you survey your current visitors to get feedback while they are using your product"
     },
     {
       "url": "surveys",
-      "name": "Surveys"
+      "name": "Surveys",
+      "description": "These resources will help you create surveys"
     },
     {
       "url": "user-journey",
-      "name": "User Journey"
-    },
-    {
-      "url": "card-sorting",
-      "name": "Card Sorting"
-    },
-    {
-      "url": "mindmapping-brainstorming",
-      "name": "Mindmapping and Brainstorming"
-    },
-    {
-      "url": "notetaking",
-      "name": "Notetaking"
-    },
-    {
-      "url": "sketching",
-      "name": "Sketching"
-    },
-    {
-      "url": "wireframing",
-      "name": "Wireframing"
-    },
-    {
-      "url": "mocking-prototyping",
-      "name": "Mocking and Prototyping"
-    },
-    {
-      "url": "high-fidelity-prototyping",
-      "name": "High Fidelity Prototyping"
-    },
-    {
-      "url": "livechat",
-      "name": "Livechat"
-    },
-    {
-      "url": "presentations",
-      "name": "Presentations"
-    },
-    {
-      "url": "storymapping",
-      "name": "Storymapping"
-    },
-    {
-      "url": "design-guide-patterns",
-      "name": "Design Guide Patterns"
-    },
-    {
-      "url": "media-graphic-resources",
-      "name": "Media and Graphic Resources"
-    },
-    {
-      "url": "typography",
-      "name": "Typography"
-    },
-    {
-      "url": "landing-page",
-      "name": "Landing Page Generators"
-    },
-    {
-      "url": "ab-testing",
-      "name": "A/B Testing"
-    },
-    {
-      "url": "web-mobile-analytics",
-      "name": "Web and Mobile analytics"
-    },
-    {
-      "url": "web-performance-optimization",
-      "name": "Web Performance Optimization"
-    },
-    {
-      "url": "accessibility",
-      "name": "Accessibility testing"
-    },
-    {
-      "url": "ux-suite",
-      "name": "UX Suite"
-    },
-    {
-      "url": "learning-training",
-      "name": "Learning and Training"
-    },
-    {
-      "url": "project-management",
-      "name": "Project Management"
+      "name": "User Journey",
+      "description": "These resources will help you define and visualize your user journey"
     },
     {
       "url": "personas",
-      "name": "User personas"
+      "name": "User personas",
+      "description": "These resources will help you define your product personas"
+    },
+    {
+      "url": "card-sorting",
+      "name": "Card Sorting",
+      "description": "These resources will help you do card sorting to evalute your information arquitecture and workflow"
+    },
+    {
+      "url": "mindmapping-brainstorming",
+      "name": "Mindmapping and Brainstorming",
+      "description": ""
+    },
+    {
+      "url": "notetaking",
+      "name": "Notetaking",
+      "description": "These resources will help you see the relation between various ideas and information and gather thoughts"
+    },
+    {
+      "url": "wireframing",
+      "name": "Wireframing",
+      "description": "These resources will help you in the process of creating low fidelity wireframes for your product"
+    },
+    {
+      "url": "mocking-prototyping",
+      "name": "Mocking and Prototyping",
+      "description": "These resources will help you in the process of creating low to higher fidelity prototypes for your product"
+    },
+    {
+      "url": "high-fidelity-prototyping",
+      "name": "High Fidelity Prototyping",
+      "description": "These resources will help you create high fidelity prototypes for your product"
+    },
+    {
+      "url": "livechat",
+      "name": "Livechat",
+      "description": "These resources will help you interact with your users while they're using your product"
+    },
+    {
+      "url": "presentations",
+      "name": "Presentations",
+      "description": "These resources will help you craft presentations to share your discoveries"
+    },
+    {
+      "url": "storymapping",
+      "name": "Storymapping",
+      "description": "These resources will help you craft your user story mapping"
+    },
+    {
+      "url": "design-guide-patterns",
+      "name": "Design Guide Patterns",
+      "description": "These resources will help you with define the UI design patterns of your product"
+    },
+    {
+      "url": "media-graphic-resources",
+      "name": "Media and Graphic Resources",
+      "description": "These resources will help you add media content to your product design and prototypes"
+    },
+    {
+      "url": "typography",
+      "name": "Typography",
+      "description": "These resources will help you choose the best font for your product"
+    },
+    {
+      "url": "screen-grabbing",
+      "name": "Screen grabbing",
+      "description": "These resources will help you capture screenshots"
+    },
+    {
+      "url": "landing-page",
+      "name": "Landing Page Generators",
+      "description": "These resources will help you with the creation and optimisation of your landing pages"
+    },
+    {
+      "url": "ab-split-testing",
+      "name": "A/B and Split Testing",
+      "description": "These resources will help you with making the most of your A/B tests"
+    },
+    {
+      "url": "web-mobile-analytics",
+      "name": "Web and Mobile analytics",
+      "description": "These resources will help you learn from your visitors"
+    },
+    {
+      "url": "web-performance-optimization",
+      "name": "Web Performance Optimization",
+      "description": "These resources will help you improve the page speed of your product"
+    },
+    {
+      "url": "accessibility",
+      "name": "Accessibility",
+      "description": "These resources will help you achieve the desired accessibility for your product"
+    },
+    {
+      "url": "ux-suite",
+      "name": "UX Suite",
+      "description": "These resources will provide you with all the tools you need to learn from your users"
+    },
+    {
+      "url": "learning-training",
+      "name": "Learning and Training",
+      "description": "These resources will help you learn and improve your UX skills"
+    },
+    {
+      "url": "notetaking",
+      "name": "Scrapbooking and Notetaking",
+      "description": "These resources will help you take notes and gather information while evaluating your product"
+    },
+    {
+      "url": "project-management",
+      "name": "Project Management",
+      "description": "These resources will help you manage your UX project"
     }
   ],
   "resources": [
-    {
-      "url": "https://ethn.io/",
-      "name": "ethn.io",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "http://www.trymyui.com/",
-      "name": "trymyui.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "http://usersthink.com/",
-      "name": "usersthink.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "http://whatusersdo.com/",
-      "name": "whatusersdo.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://userbob.com/",
-      "name": "userbob.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://www.optimalworkshop.com/questions",
-      "name": "optimalworkshop.com/questions",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://dscout.com/",
-      "name": "dscout.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://www.usertesting.com/",
-      "name": "usertesting.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://www.userlytics.com/sitepublic/",
-      "name": "userlytics.com/sitepublic",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://www.userfeel.com/",
-      "name": "userfeel.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://erlibird.com/",
-      "name": "erlibird.com",
-      "category": "user-recruiting"
-    },
-    {
-      "url": "https://www.smartlook.com/",
-      "name": "smartlook.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://mouseflow.com/",
-      "name": "mouseflow.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://lookback.io/",
-      "name": "lookback.io",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://www.inspectlet.com/",
-      "name": "inspectlet.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://watchsend.com/",
-      "name": "watchsend.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://www.crazyegg.com/",
-      "name": "crazyegg.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://www.clicktale.com/",
-      "name": "clicktale.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://www.decibelinsight.com/",
-      "name": "decibelinsight.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://eyesdecide.com/",
-      "name": "eyesdecide.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "http://www.getjaco.com/",
-      "name": "getjaco.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://validately.com/",
-      "name": "validately.com",
-      "category": "user-recording-heatmap"
-    },
-    {
-      "url": "https://www.optimalworkshop.com/chalkmark",
-      "name": "optimalworkshop.com/chalkmark",
-      "category": "user-feedback"
-    },
-    {
-      "url": "https://usabilla.com",
-      "name": "usabilla.com",
-      "category": "user-feedback"
-    },
-    {
-      "url": "https://usabilityhub.com/",
-      "name": "usabilityhub.com",
-      "category": "user-feedback"
-    },
-    {
-      "url": "https://www.feng-gui.com/",
-      "name": "feng-gui.com",
-      "category": "user-feedback"
-    },
-    {
-      "url": "https://qualaroo.com/",
-      "name": "qualaroo.com",
-      "category": "onsite-surveys"
-    },
-    {
-      "url": "https://webengage.com/",
-      "name": "webengage.com",
-      "category": "onsite-surveys"
-    },
-    {
-      "url": "http://www.plot.io/",
-      "name": "plot.io",
-      "category": "onsite-surveys"
-    },
-    {
-      "url": "https://www.iperceptions.com/",
-      "name": "iperceptions.com",
-      "category": "onsite-surveys"
-    },
-    {
-      "url": "http://www.kampyle.com/",
-      "name": "kampyle.com",
-      "category": "onsite-surveys"
-    },
-    {
-      "url": "https://yesinsights.com/",
-      "name": "yesinsights.com",
-      "category": "onsite-surveys"
-    },
-    {
-      "url": "https://survicate.com/",
-      "name": "survicate.com",
-      "category": "onsite-surveys"
-    },
-    {
-      "url": "https://www.typeform.com/",
-      "name": "typeform.com",
-      "category": "surveys"
-    },
-    {
-      "url": "https://polldaddy.com/",
-      "name": "polldaddy.com",
-      "category": "surveys"
-    },
-    {
-      "url": "https://www.surveygizmo.com/",
-      "name": "surveygizmo.com",
-      "category": "surveys"
-    },
-    {
-      "url": "https://www.google.com/intl/en/forms/about/",
-      "name": "google.com/intl/en/forms/about",
-      "category": "surveys"
-    },
-    {
-      "url": "https://www.surveymonkey.com/",
-      "name": "surveymonkey.com",
-      "category": "surveys"
-    },
-    {
-      "url": "https://surveynuts.com/",
-      "name": "surveynuts.com",
-      "category": "surveys"
-    },
-    {
-      "url": "https://esurv.org/",
-      "name": "esurv.org",
-      "category": "surveys"
-    },
-    {
-      "url": "http://www.poll-maker.com/",
-      "name": "poll-maker.com",
-      "category": "surveys"
-    },
-    {
-      "url": "https://uxpressia.com/",
-      "name": "uxpressia.com",
-      "category": "user-journey"
-    },
-    {
-      "url": "https://www.smaply.com/",
-      "name": "smaply.com",
-      "category": "user-journey"
-    },
-    {
-      "url": "http://touchpointdashboard.com/",
-      "name": "touchpointdashboard.com",
-      "category": "user-journey"
-    },
-    {
-      "url": "https://autopilothq.com/",
-      "name": "autopilothq.com",
-      "category": "user-journey"
-    },
-    {
-      "url": "https://custellence.com/",
-      "name": "custellence.com",
-      "category": "user-journey"
-    },
-    {
-      "url": "https://realtimeboard.com/",
-      "name": "realtimeboard.com",
-      "category": "user-journey"
-    },
-    {
-      "url": "http://www.experiencefellow.com/",
-      "name": "experiencefellow.com",
-      "category": "user-journey"
-    },
-    {
-      "url": "http://www.uxsort.com/",
-      "name": "uxsort.com",
-      "category": "card-sorting"
-    },
-    {
-      "url": "https://www.optimalworkshop.com/optimalsort",
-      "name": "optimalworkshop.com/optimalsort",
-      "category": "card-sorting"
-    },
-    {
-      "url": "https://www.simplecardsort.com/",
-      "name": "simplecardsort.com",
-      "category": "card-sorting"
-    },
-    {
-      "url": "https://sites.google.com/a/uxsort.com/uxsort/",
-      "name": "sites.google.com/a/uxsort.com/uxsort",
-      "category": "card-sorting"
-    },
-    {
-      "url": "http://www.usabilitest.com/CardSorting",
-      "name": "usabilitest.com/CardSorting",
-      "category": "card-sorting"
-    },
-    {
-      "url": "https://stormboard.com/",
-      "name": "stormboard.com",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://www.groupmap.com/",
-      "name": "groupmap.com",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://chrome.google.com/webstore/detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa#detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa",
-      "name": "mindmap chrome extension",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://mural.co/",
-      "name": "mural.co",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "http://www.xmind.net/",
-      "name": "xmind.net",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://www.smartdraw.com/",
-      "name": "smartdraw.com",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://coggle.it/",
-      "name": "coggle.it",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://bubbl.us/",
-      "name": "bubbl.us",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://creately.com/",
-      "name": "creately.com",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://www.blankcanvas.io/",
-      "name": "blankcanvas.io",
-      "category": "mindmapping-brainstorming"
-    },
-    {
-      "url": "https://bugherd.com/",
-      "name": "bugherd.com",
-      "category": "notetaking"
-    },
-    {
-      "url": "http://www.usefulfruit.com/pearnote/",
-      "name": "usefulfruit.com/pearnote",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://evernote.com/",
-      "name": "evernote.com",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://specfox.com/",
-      "name": "specfox.com",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://www.kamihq.com/",
-      "name": "kamihq.com",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://www.diigo.com/",
-      "name": "diigo.com",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://quip.com/",
-      "name": "quip.com",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://litewrite.net/",
-      "name": "litewrite.net",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://laverna.cc/",
-      "name": "laverna.cc",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://www.highly.co/",
-      "name": "highly.co",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://juntoo.co/wd.html",
-      "name": "juntoo.co/wd.html",
-      "category": "notetaking"
-    },
-    {
-      "url": "https://popapp.in/sketchpad/",
-      "name": "popapp.in/sketchpad",
-      "category": "sketching"
-    },
-    {
-      "url": "https://uiuxassets.com/assets/printable-wireframe-templates/",
-      "name": "uiuxassets.com/assets/printable-wireframe-templates",
-      "category": "sketching"
-    },
-    {
-      "url": "https://ewebdesign.com/pdf-templates-wireframes/",
-      "name": "ewebdesign.com/pdf-templates-wireframes",
-      "category": "sketching"
-    },
-    {
-      "url": "http://www.uistencils.com/",
-      "name": "uistencils.com",
-      "category": "sketching"
-    },
-    {
-      "url": "https://popapp.in/",
-      "name": "popapp.in",
-      "category": "sketching"
-    },
-    {
-      "url": "http://sketchsheets.com/",
-      "name": "sketchsheets.com",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://moqups.com/",
-      "name": "moqups.com",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://www.uxpin.com/",
-      "name": "uxpin.com",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://balsamiq.com/",
-      "name": "balsamiq.com",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://gomockingbird.com/home",
-      "name": "gomockingbird.com/home",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://mockflow.com/",
-      "name": "mockflow.com",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://pidoco.com/en",
-      "name": "pidoco.com/en",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://www.hotgloo.com/",
-      "name": "hotgloo.com",
-      "category": "wireframing"
-    },
-    {
-      "url": "https://www.invisionapp.com/",
-      "name": "invisionapp.com",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "http://dunnnk.com/",
-      "name": "dunnnk.com",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "http://www.infragistics.com/products/indigo-studio",
-      "name": "infragistics.com/products/indigo-studio",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "http://facebook.github.io/origami/",
-      "name": "facebook.github.io/origami",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "https://atomic.io/",
-      "name": "atomic.io",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "http://www.axure.com/",
-      "name": "axure.com",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "https://www.irise.com/",
-      "name": "irise.com",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "http://concept.ly/",
-      "name": "concept.ly",
-      "category": "mocking-prototyping"
-    },
-    {
-      "url": "http://www.adobe.com/es/products/photoshop.html",
-      "name": "adobe.com/es/products/photoshop.html",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://www.sketchapp.com/",
-      "name": "sketchapp.com",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://www.gimp.org/",
-      "name": "gimp.org",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://marvelapp.com/",
-      "name": "marvelapp.com",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://proto.io/",
-      "name": "proto.io",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://facebook.github.io/origami/",
-      "name": "facebook.github.io/origami",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://www.justinmind.com",
-      "name": "justinmind.com",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://www.fluidui.com/",
-      "name": "fluidui.com",
-      "category": "high-fidelity-prototyping"
-    },
-    {
-      "url": "https://www.zopim.com/",
-      "name": "zopim.com",
-      "category": "livechat"
-    },
-    {
-      "url": "https://www.intercom.com/",
-      "name": "intercom.com",
-      "category": "livechat"
-    },
-    {
-      "url": "https://snapengage.com/",
-      "name": "snapengage.com",
-      "category": "livechat"
-    },
-    {
-      "url": "https://www.olark.com/",
-      "name": "olark.com",
-      "category": "livechat"
-    },
-    {
-      "url": "http://www.liveperson.com/",
-      "name": "liveperson.com",
-      "category": "livechat"
-    },
-    {
-      "url": "https://www.livechatinc.com/",
-      "name": "livechatinc.com",
-      "category": "livechat"
-    },
-    {
-      "url": "https://www.comm100.com/livechat/",
-      "name": "comm100.com/livechat",
-      "category": "livechat"
-    },
-    {
-      "url": "https://www.livechatinc.com/applications/livechat-web-app/",
-      "name": "livechatinc.com/applications/livechat-web-app",
-      "category": "livechat"
-    },
-    {
-      "url": "https://prezi.com/",
-      "name": "prezi.com",
-      "category": "presentations"
-    },
-    {
-      "url": "https://www.visme.co/",
-      "name": "visme.co",
-      "category": "presentations"
-    },
-    {
-      "url": "https://present.me",
-      "name": "present.me",
-      "category": "presentations"
-    },
-    {
-      "url": "http://www.knovio.com/",
-      "name": "knovio.com",
-      "category": "presentations"
-    },
-    {
-      "url": "https://slides.com/",
-      "name": "slides.com",
-      "category": "presentations"
-    },
-    {
-      "url": "https://www.haikudeck.com/",
-      "name": "haikudeck.com",
-      "category": "presentations"
-    },
-    {
-      "url": "http://www.slideshare.net/",
-      "name": "slideshare.net",
-      "category": "presentations"
-    },
-    {
-      "url": "http://glisser.com/",
-      "name": "glisser.com",
-      "category": "presentations"
-    },
-    {
-      "url": "https://www.zoho.com/docs/show.html",
-      "name": "zoho.com/docs/show.html",
-      "category": "presentations"
-    },
-    {
-      "url": "https://projeqt.com/",
-      "name": "projeqt.com",
-      "category": "presentations"
-    },
-    {
-      "url": "https://piktochart.com/",
-      "name": "piktochart.com",
-      "category": "presentations"
-    },
-    {
-      "url": "http://storiesonboard.com/",
-      "name": "storiesonboard.com",
-      "category": "storymapping"
-    },
-    {
-      "url": "https://www.featuremap.co/en",
-      "name": "featuremap.co/en",
-      "category": "storymapping"
-    },
-    {
-      "url": "https://realtimeboard.com/examples/user-story-map/",
-      "name": "realtimeboard.com/examples/user-story-map",
-      "category": "storymapping"
-    },
-    {
-      "url": "https://cardboardit.com/",
-      "name": "cardboardit.com",
-      "category": "storymapping"
-    },
-    {
-      "url": "https://hartchart.com/",
-      "name": "hartchart.com",
-      "category": "storymapping"
-    },
-    {
-      "url": "http://trello.com",
-      "name": "trello.com",
-      "category": "storymapping"
-    },
-    {
-      "url": "http://www.goodui.org/",
-      "name": "goodui.org",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "http://patternry.com/",
-      "name": "patternry.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "https://frontify.com/",
-      "name": "frontify.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "http://pttrns.com/",
-      "name": "pttrns.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "http://uxarchive.com/",
-      "name": "uxarchive.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "http://ui-cloud.com/",
-      "name": "ui-cloud.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "http://littlebigdetails.com/",
-      "name": "littlebigdetails.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "http://paletton.com/",
-      "name": "paletton.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "http://www.vectorfinder.com/",
-      "name": "vectorfinder.com",
-      "category": "design-guide-patterns"
-    },
-    {
-      "url": "https://unsplash.com",
-      "name": "unsplash.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "https://resplashed.com",
-      "name": "resplashed.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "http://dissolve.com/",
-      "name": "dissolve.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "https://www.materialpalette.com/",
-      "name": "materialpalette.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "http://www.colorhunter.com/",
-      "name": "colorhunter.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "https://brandcolors.net/",
-      "name": "brandcolors.net",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "https://colorkit.pluginmate.com/",
-      "name": "colorkit.pluginmate.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "https://mariodelvalle.github.io/CaptainIconWeb/",
-      "name": "mariodelvalle.github.io/CaptainIconWeb",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "http://www.flaticon.com/",
-      "name": "flaticon.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "https://icons8.com/",
-      "name": "icons8.com",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "http://stocky.pro/",
-      "name": "stocky.pro",
-      "category": "media-graphic-resources"
-    },
-    {
-      "url": "http://ilovetypography.com/",
-      "name": "ilovetypography.com",
-      "category": "typography"
-    },
-    {
-      "url": "https://www.fontspring.com/",
-      "name": "fontspring.com",
-      "category": "typography"
-    },
-    {
-      "url": "https://fonts.google.com/",
-      "name": "fonts.google.com",
-      "category": "typography"
-    },
-    {
-      "url": "https://typekit.com/",
-      "name": "typekit.com",
-      "category": "typography"
-    },
-    {
-      "url": "http://www.myfonts.com/",
-      "name": "myfonts.com",
-      "category": "typography"
-    },
-    {
-      "url": "https://www.fontshop.com/",
-      "name": "fontshop.com",
-      "category": "typography"
-    },
-    {
-      "url": "https://www.fontsquirrel.com/",
-      "name": "fontsquirrel.com",
-      "category": "typography"
-    },
-    {
-      "url": "http://www.dafont.com/es/",
-      "name": "dafont.com/es",
-      "category": "typography"
-    },
-    {
-      "url": "https://instapage.com/",
-      "name": "instapage.com",
-      "category": "landing-page"
-    },
-    {
-      "url": "http://www.leadpages.net/",
-      "name": "leadpages.net",
-      "category": "landing-page"
-    },
-    {
-      "url": "http://fivesecondtest.com/",
-      "name": "fivesecondtest.com",
-      "category": "landing-page"
-    },
-    {
-      "url": "https://www.launchrock.com",
-      "name": "launchrock.com",
-      "category": "landing-page"
-    },
-    {
-      "url": "http://www.clickthroo.com/",
-      "name": "clickthroo.com",
-      "category": "landing-page"
-    },
-    {
-      "url": "https://landingi.com/",
-      "name": "landingi.com",
-      "category": "landing-page"
-    },
-    {
-      "url": "http://unbounce.com/",
-      "name": "unbounce.com",
-      "category": "landing-page"
-    },
-    {
-      "url": "https://vwo.com/landing-page-analyzer/",
-      "name": "vwo.com/landing-page-analyzer",
-      "category": "landing-page"
-    },
-    {
-      "url": "https://www.optimizely.com/resources/sample-size-calculator/",
-      "name": "optimizely.com/resources/sample-size-calculator",
-      "category": "ab-testing"
-    },
-    {
-      "url": "https://www.optimizely.com/",
-      "name": "optimizely.com",
-      "category": "ab-testing"
-    },
-    {
-      "url": "https://www.convert.com/",
-      "name": "convert.com",
-      "category": "ab-testing"
-    },
-    {
-      "url": "https://www.abtasty.com/uk/",
-      "name": "abtasty.com/uk",
-      "category": "ab-testing"
-    },
-    {
-      "url": "https://taplytics.com/",
-      "name": "taplytics.com",
-      "category": "ab-testing"
-    },
-    {
-      "url": "https://vwo.com/",
-      "name": "vwo.com",
-      "category": "ab-testing"
-    },
-    {
-      "url": "https://conductrics.com/",
-      "name": "conductrics.com",
-      "category": "ab-testing"
-    },
-    {
-      "url": "http://getdatadriven.com/ab-significance-test",
-      "name": "getdatadriven.com/ab-significance-test",
-      "category": "ab-testing"
-    },
-    {
-      "url": "http://www.eyequant.com/",
-      "name": "eyequant.com",
-      "category": "ab-testing"
-    },
-    {
-      "url": "https://analytics.google.com",
-      "name": "analytics.google.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://piwik.org/",
-      "name": "piwik.org",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://clicky.com/",
-      "name": "clicky.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://www.kissmetrics.com/",
-      "name": "kissmetrics.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://www.woopra.com/",
-      "name": "woopra.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://heapanalytics.com/",
-      "name": "heapanalytics.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://www.appsee.com/",
-      "name": "appsee.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://zarget.com/",
-      "name": "zarget.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "http://www.luckyorange.com/",
-      "name": "luckyorange.com",
-      "category": "web-mobile-analytics"
-    },
-    {
-      "url": "https://developers.google.com/speed/pagespeed/",
-      "name": "developers.google.com/speed/pagespeed",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "https://gtmetrix.com/",
-      "name": "gtmetrix.com",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "https://www.pingdom.com/",
-      "name": "pingdom.com",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "http://yslow.org/",
-      "name": "yslow.org",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "http://google.github.io/tracing-framework/",
-      "name": "google.github.io/tracing-framework",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "http://yellowlab.tools/",
-      "name": "yellowlab.tools",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "http://www.webpagetest.org/",
-      "name": "webpagetest.org",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "http://rigor.com/",
-      "name": "rigor.com",
-      "category": "web-performance-optimization"
-    },
-    {
-      "url": "http://colorsafe.co/",
-      "name": "colorsafe.co",
-      "category": "accessibility"
-    },
-    {
-      "url": "http://squizlabs.github.io/HTML_CodeSniffer/",
-      "name": "squizlabs.github.io/HTML_CodeSniffer",
-      "category": "accessibility"
-    },
-    {
-      "url": "http://usability.com.au/2013/01/accessibility-priority-tool/",
-      "name": "usability.com.au/2013/01/accessibility-priority-tool",
-      "category": "accessibility"
-    },
-    {
-      "url": "https://www.totalvalidator.com/",
-      "name": "totalvalidator.com",
-      "category": "accessibility"
-    },
-    {
-      "url": "https://validator.w3.org/unicorn/",
-      "name": "validator.w3.org/unicorn",
-      "category": "accessibility"
-    },
-    {
-      "url": "https://search.google.com/search-console/mobile-friendly",
-      "name": "search.google.com/search-console/mobile-friendly",
-      "category": "accessibility"
-    },
-    {
-      "url": "http://wave.webaim.org/",
-      "name": "wave.webaim.org",
-      "category": "accessibility"
-    },
-    {
-      "url": "https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll",
-      "name": "chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll",
-      "category": "accessibility"
-    },
-    {
-      "url": "https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl/",
-      "name": "chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl",
-      "category": "accessibility"
-    },
-    {
-      "url": "https://www.browserling.com/",
-      "name": "browserling.com",
-      "category": "accessibility"
-    },
-    {
-      "url": "http://userzoom.com",
-      "name": "userzoom.com",
-      "category": "ux-suite"
-    },
-    {
-      "url": "http://usabilitytools.com/",
-      "name": "usabilitytools.com",
-      "category": "ux-suite"
-    },
-    {
-      "url": "http://www.mousestats.com/",
-      "name": "mousestats.com",
-      "category": "ux-suite"
-    },
-    {
-      "url": "https://www.hotjar.com",
-      "name": "hotjar.com",
-      "category": "ux-suite"
-    },
-    {
-      "url": "http://trydesignlab.com/",
-      "name": "trydesignlab.com",
-      "category": "learning-training"
-    },
-    {
-      "url": "https://www.skillshare.com/classes/ux-design",
-      "name": "skillshare.com/classes/ux-design",
-      "category": "learning-training"
-    },
-    {
-      "url": "https://www.coursera.org/specializations/interaction-design",
-      "name": "coursera.org/specializations/interaction-design",
-      "category": "learning-training"
-    },
-    {
-      "url": "https://uxtraining.com/",
-      "name": "uxtraining.com",
-      "category": "learning-training"
-    },
-    {
-      "url": "https://www.bloc.io/ux-design-bootcamp",
-      "name": "bloc.io/ux-design-bootcamp",
-      "category": "learning-training"
-    },
-    {
-      "url": "http://uxmastery.com/",
-      "name": "uxmastery.com",
-      "category": "learning-training"
-    },
-    {
-      "url": "https://www.udacity.com/",
-      "name": "udacity.com",
-      "category": "learning-training"
-    },
-    {
-      "url": "http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals",
-      "name": "thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals",
-      "category": "learning-training"
-    },
-    {
-      "url": "https://www.meistertask.com/",
-      "name": "meistertask.com",
-      "category": "project-management"
-    },
-    {
-      "url": "http://taiga.io",
-      "name": "taiga.io",
-      "category": "project-management"
-    },
-    {
-      "url": "https://asana.com/",
-      "name": "asana.com",
-      "category": "project-management"
-    },
-    {
-      "url": "https://www.wrike.com/",
-      "name": "wrike.com",
-      "category": "project-management"
-    },
-    {
-      "url": "https://www.upwave.io/",
-      "name": "upwave.io",
-      "category": "project-management"
-    },
-    {
-      "url": "http://basecamp.com",
-      "name": "basecamp.com",
-      "category": "project-management"
-    },
-    {
-      "url": "https://www.notism.io/",
-      "name": "notism.io",
-      "category": "project-management"
-    },
-    {
-      "url": "https://www.teamwork.com/project-management-software    ",
-      "name": "teamwork.com/project-management-software    ",
-      "category": "project-management"
-    },
-    {
-      "url": "https://xtensio.com/user-persona/",
-      "name": "xtensio.com/user-persona",
-      "category": "personas"
-    },
-    {
-      "url": "http://userforge.com/",
-      "name": "userforge.com",
-      "category": "personas"
-    },
-    {
-      "url": "http://www.makemypersona.com/",
-      "name": "makemypersona.com",
-      "category": "personas"
-    },
-    {
-      "url": "https://randomuser.me/",
-      "name": "randomuser.me",
-      "category": "personas"
-    },
-    {
-      "url": "http://www.sketchappsources.com/free-source/1169-user-persona-template-sketch-freebie-resource.html",
-      "name": "sketchappsources.com/free-source/1169-user-persona-template-sketch-freebie-resource.html",
-      "category": "personas"
-    },
-    {
-      "url": "https://www.caravel.design/",
-      "name": "caravel.design",
-      "category": "personas"
-    },
-    {
-      "url": "http://offers.hubspot.com/free-template-creating-buyer-personas",
-      "name": "offers.hubspot.com/free-template-creating-buyer-personas",
-      "category": "personas"
-    }
-  ]
+  {
+    "category": "user-recruiting",
+    "link": "https://ethn.io/",
+    "name": "Ethnio",
+    "image": "/ethnio.png",
+    "uri": "ethnio",
+    "description": ""
+  },
+  {
+    "category": "user-recruiting",
+    "link": "http://www.trymyui.com/",
+    "name": "Try My UI",
+    "image": "/try-my-ui.png",
+    "uri": "try-my-ui",
+    "description": ""
+  },
+  {
+    "category": "user-recruiting",
+    "link": "https://usabilityhub.com/",
+    "name": "Usability HUB",
+    "image": "/usability-hub.jpg",
+    "uri": "usability-hub",
+    "description": ""
+  },
+  {
+    "category": "user-recruiting",
+    "link": "https://validately.com/",
+    "name": "Validately",
+    "image": "/validately.png",
+    "uri": "validately",
+    "description": ""
+  },
+  {
+    "category": "user-recruiting",
+    "link": "https://userbob.com/",
+    "name": "UserBob",
+    "image": "/userbob.svg",
+    "uri": "userbob",
+    "description": ""
+  },
+  {
+    "category": "user-recruiting",
+    "link": "https://www.userfeel.com/",
+    "name": "UserFeel",
+    "image": "/userfeel.svg",
+    "uri": "userfeel",
+    "description": ""
+  },
+  {
+    "category": "user-recruiting",
+    "link": "https://dscout.com/",
+    "name": "dscout",
+    "image": "/dscout.jpg",
+    "uri": "dscout",
+    "description": ""
+  },
+  {
+    "category": "user-recruiting",
+    "link": "https://www.usertesting.com/",
+    "name": "UserTesting",
+    "image": "/usertesting.jpg",
+    "uri": "usertesting",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "https://www.smartlook.com/",
+    "name": "Smartlook",
+    "image": "/smartlook.png",
+    "uri": "smartlook",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "https://mouseflow.com/",
+    "name": "Mouseflow",
+    "image": "/mouseflow.png",
+    "uri": "mouseflow",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "https://lookback.io/",
+    "name": "Lookback",
+    "image": "/lookback.jpg",
+    "uri": "lookback",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "https://www.inspectlet.com/",
+    "name": "Inspectlet",
+    "image": "",
+    "uri": "inspectlet",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "http://www.getjaco.com/",
+    "name": "Jaco",
+    "image": "/jaco.png",
+    "uri": "jaco",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "https://www.crazyegg.com/",
+    "name": "Crazyegg",
+    "image": "/crazyegg.png",
+    "uri": "crazyegg",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "https://www.clicktale.com/",
+    "name": "Clicktale",
+    "image": "/clicktale.jpg",
+    "uri": "clicktale",
+    "description": ""
+  },
+  {
+    "category": "user-recording-heatmap",
+    "link": "https://eyesdecide.com/",
+    "name": "EyesDecide",
+    "image": "/eyesdecide.jpg",
+    "uri": "eyesdecide",
+    "description": ""
+  },
+  {
+    "category": "onsite-surveys",
+    "link": "https://qualaroo.com/",
+    "name": "Qualaroo",
+    "image": "/qualaroo.jpg",
+    "uri": "qualaroo",
+    "description": ""
+  },
+  {
+    "category": "onsite-surveys",
+    "link": "https://webengage.com/",
+    "name": "Web Engage",
+    "image": "/web-engage.jpg",
+    "uri": "web-engage",
+    "description": ""
+  },
+  {
+    "category": "onsite-surveys",
+    "link": "https://www.iperceptions.com/",
+    "name": "Iperceptions",
+    "image": "/iperceptions.jpg",
+    "uri": "iperceptions",
+    "description": ""
+  },
+  {
+    "category": "onsite-surveys",
+    "link": "https://yesinsights.com/",
+    "name": "Yesinsights",
+    "image": "/yesinsights.png",
+    "uri": "yesinsights",
+    "description": ""
+  },
+  {
+    "category": "onsite-surveys",
+    "link": "https://survicate.com/",
+    "name": "Survicate",
+    "image": "/survicate.jpg",
+    "uri": "survicate",
+    "description": ""
+  },
+  {
+    "category": "onsite-surveys",
+    "link": "https://www.getfeedback.com/",
+    "name": "GetFeedback",
+    "image": "/getfeedback.jpg",
+    "uri": "getfeedback",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "https://www.typeform.com/",
+    "name": "Typeform",
+    "image": "/typeform.jpg",
+    "uri": "typeform",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "https://polldaddy.com/",
+    "name": "Polldaddy",
+    "image": "/polldaddy.png",
+    "uri": "polldaddy",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "https://www.surveygizmo.com/",
+    "name": "Surveygizmo",
+    "image": "/surveygizmo.jpg",
+    "uri": "surveygizmo",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "https://www.google.com/intl/en/forms/about/",
+    "name": "Google Forms",
+    "image": "/google-forms.jpg",
+    "uri": "google-forms",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "https://www.surveymonkey.com/",
+    "name": "Surveymonkey",
+    "image": "/surveymonkey.jpg",
+    "uri": "surveymonkey",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "https://surveynuts.com/",
+    "name": "Surveynuts",
+    "image": "/surveynuts.png",
+    "uri": "surveynuts",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "https://esurv.org/",
+    "name": "Esurv",
+    "image": "",
+    "uri": "esurv",
+    "description": ""
+  },
+  {
+    "category": "surveys",
+    "link": "http://www.poll-maker.com/",
+    "name": "Poll-maker",
+    "image": "/poll-maker.png",
+    "uri": "poll-maker",
+    "description": ""
+  },
+  {
+    "category": "user-journey",
+    "link": "https://uxpressia.com/",
+    "name": "UXpressia",
+    "image": "/uxpressia.jpg",
+    "uri": "uxpressia",
+    "description": ""
+  },
+  {
+    "category": "user-journey",
+    "link": "https://www.smaply.com/",
+    "name": "Smaply",
+    "image": "/smaply.jpg",
+    "uri": "smaply",
+    "description": ""
+  },
+  {
+    "category": "user-journey",
+    "link": "http://touchpointdashboard.com/",
+    "name": "Touchpoint Dashboard",
+    "image": "/touchpoint-dashboard.jpg",
+    "uri": "touchpoint-dashboard",
+    "description": ""
+  },
+  {
+    "category": "user-journey",
+    "link": "https://autopilothq.com/",
+    "name": "Autopilothq",
+    "image": "/autopilothq.jpg",
+    "uri": "autopilothq",
+    "description": ""
+  },
+  {
+    "category": "user-journey",
+    "link": "https://custellence.com/",
+    "name": "Custellence",
+    "image": "/custellence.svg",
+    "uri": "custellence",
+    "description": ""
+  },
+  {
+    "category": "user-journey",
+    "link": "https://realtimeboard.com/",
+    "name": "Realtime Board",
+    "image": "/realtime-board.jpg",
+    "uri": "realtime-board",
+    "description": ""
+  },
+  {
+    "category": "user-journey",
+    "link": "http://www.experiencefellow.com/",
+    "name": "ExperienceFellow",
+    "image": "/experiencefellow.png",
+    "uri": "experiencefellow",
+    "description": ""
+  },
+  {
+    "category": "user-persona",
+    "link": "https://xtensio.com/user-persona/",
+    "name": "Xtensio User Persona Creator",
+    "image": "/xtensio-user-persona-creator.jpg",
+    "uri": "xtensio-user-persona-creator",
+    "description": ""
+  },
+  {
+    "category": "user-persona",
+    "link": "http://userforge.com/",
+    "name": "Userforge",
+    "image": "/userforge.jpeg",
+    "uri": "userforge",
+    "description": ""
+  },
+  {
+    "category": "user-persona",
+    "link": "http://www.makemypersona.com/",
+    "name": "Make My Persona - Hubspot",
+    "image": "/make-my-persona-hubspot.png",
+    "uri": "make-my-persona-hubspot",
+    "description": ""
+  },
+  {
+    "category": "user-persona",
+    "link": "https://randomuser.me/",
+    "name": "Random User Generator",
+    "image": "/random-user-generator.png",
+    "uri": "random-user-generator",
+    "description": ""
+  },
+  {
+    "category": "card-sorting",
+    "link": "http://www.uxsort.net/",
+    "name": "UXSort",
+    "image": "",
+    "uri": "uxsort",
+    "description": ""
+  },
+  {
+    "category": "card-sorting",
+    "link": "https://www.optimalworkshop.com/optimalsort",
+    "name": "OptimalSort",
+    "image": "",
+    "uri": "optimalsort",
+    "description": ""
+  },
+  {
+    "category": "card-sorting",
+    "link": "https://www.simplecardsort.com/",
+    "name": "Simplecardsort",
+    "image": "/simplecardsort.png",
+    "uri": "simplecardsort",
+    "description": ""
+  },
+  {
+    "category": "card-sorting",
+    "link": "http://www.usabilitest.com/CardSorting",
+    "name": "Usabilitest CardSorting",
+    "image": "/usabilitest-cardsorting.png",
+    "uri": "usabilitest-cardsorting",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "https://stormboard.com/",
+    "name": "Stormboard",
+    "image": "/stormboard.png",
+    "uri": "stormboard",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "https://www.groupmap.com/",
+    "name": "Groupmap",
+    "image": "/groupmap.png",
+    "uri": "groupmap",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "http://app.mindmapmaker.org/#m:new",
+    "name": "MindMap Maker",
+    "image": "/mindmap-maker.jpg",
+    "uri": "mindmap-maker",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "https://mural.co/",
+    "name": "Mural",
+    "image": "/mural.jpg",
+    "uri": "mural",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "http://www.xmind.net/",
+    "name": "Xmind",
+    "image": "/xmind.jpg",
+    "uri": "xmind",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "https://www.smartdraw.com/",
+    "name": "Smartdraw",
+    "image": "/smartdraw.png?bn=1510011130",
+    "uri": "smartdraw",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "https://coggle.it/",
+    "name": "Coggle",
+    "image": "/coggle.png",
+    "uri": "coggle",
+    "description": ""
+  },
+  {
+    "category": "mind-mapping-brainstorming",
+    "link": "https://www.blankcanvas.io/",
+    "name": "Blank Canvas",
+    "image": "/blank-canvas.png",
+    "uri": "blank-canvas",
+    "description": ""
+  },
+  {
+    "category": "wireframing",
+    "link": "http://sketchsheets.com/",
+    "name": "Sketchsheets",
+    "image": "",
+    "uri": "sketchsheets",
+    "description": ""
+  },
+  {
+    "category": "wireframing",
+    "link": "https://moqups.com/",
+    "name": "Moqups",
+    "image": "/moqups.jpg",
+    "uri": "moqups",
+    "description": ""
+  },
+  {
+    "category": "wireframing",
+    "link": "https://marvelapp.com/pop/",
+    "name": "POP - Prototyping on Paper",
+    "image": "/pop-prototyping-on-paper.png",
+    "uri": "pop-prototyping-on-paper",
+    "description": ""
+  },
+  {
+    "category": "wireframing",
+    "link": "https://balsamiq.com/",
+    "name": "Balsamiq",
+    "image": "/balsamiq.png",
+    "uri": "balsamiq",
+    "description": ""
+  },
+  {
+    "category": "wireframing",
+    "link": "https://mockflow.com/",
+    "name": "Mockflow",
+    "image": "/mockflow.png",
+    "uri": "mockflow",
+    "description": ""
+  },
+  {
+    "category": "wireframing",
+    "link": "https://pidoco.com/en",
+    "name": "Pidoco",
+    "image": "/pidoco.png",
+    "uri": "pidoco",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "https://www.uxpower.tools/",
+    "name": "UX Power Tools",
+    "image": "/ux-power-tools.jpg",
+    "uri": "ux-power-tools",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "http://dunnnk.com/",
+    "name": "Dunnnk",
+    "image": "",
+    "uri": "dunnnk",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "http://www.infragistics.com/products/indigo-studio",
+    "name": "Indigo Studio",
+    "image": "/indigo-studio.png",
+    "uri": "indigo-studio",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "https://atomic.io/",
+    "name": "Atomic",
+    "image": "/atomic.jpg",
+    "uri": "atomic",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "http://www.axure.com/",
+    "name": "Axure",
+    "image": "/axure.jpg",
+    "uri": "axure",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "https://www.irise.com/",
+    "name": "Irise",
+    "image": "/irise.jpg",
+    "uri": "irise",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "http://concept.ly/",
+    "name": "Concept.ly",
+    "image": "/concept-ly.png",
+    "uri": "concept-ly",
+    "description": ""
+  },
+  {
+    "category": "mocking-prototyping",
+    "link": "https://mockflow.com/",
+    "name": "MocFlow",
+    "image": "/mocflow.png",
+    "uri": "mocflow",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://www.adobe.com/products/xd.html",
+    "name": "Adobe Experience Developer",
+    "image": "/adobe-experience-developer.jpg",
+    "uri": "adobe-experience-developer",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://www.sketchapp.com/",
+    "name": "Sketch",
+    "image": "/sketch.png",
+    "uri": "sketch",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://www.figma.com/",
+    "name": "Figma",
+    "image": "/figma.png",
+    "uri": "figma",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://marvelapp.com/",
+    "name": "Marvel",
+    "image": "/marvel.jpg",
+    "uri": "marvel",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://proto.io/",
+    "name": "Proto.io",
+    "image": "/proto-io.jpg",
+    "uri": "proto-io",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://origami.design/",
+    "name": "Origami",
+    "image": "/origami.png",
+    "uri": "origami",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://www.uxpin.com/",
+    "name": "Uxpin",
+    "image": "/uxpin.jpg",
+    "uri": "uxpin",
+    "description": ""
+  },
+  {
+    "category": "high-fidelity-prototyping",
+    "link": "https://framer.com/",
+    "name": "Framer",
+    "image": "/framer.jpg",
+    "uri": "framer",
+    "description": ""
+  },
+  {
+    "category": "design-feedback",
+    "link": "https://www.notism.io/",
+    "name": "Notism",
+    "image": "/notism.jpg",
+    "uri": "notism",
+    "description": ""
+  },
+  {
+    "category": "design-feedback",
+    "link": "https://bugherd.com/",
+    "name": "Bugherd",
+    "image": "/bugherd.png",
+    "uri": "bugherd",
+    "description": ""
+  },
+  {
+    "category": "design-feedback",
+    "link": "https://www.invisionapp.com/",
+    "name": "Invision",
+    "image": "/invision.png",
+    "uri": "invision",
+    "description": ""
+  },
+  {
+    "category": "design-feedback",
+    "link": "https://redpen.io/",
+    "name": "Red Pen",
+    "image": "/red-pen.png",
+    "uri": "red-pen",
+    "description": ""
+  },
+  {
+    "category": "design-feedback",
+    "link": "https://www.designdrop.io/home.html",
+    "name": "DesignDrop",
+    "image": "/designdrop.png",
+    "uri": "designdrop",
+    "description": ""
+  },
+  {
+    "category": "design-feedback",
+    "link": "https://evrybo.com/",
+    "name": "Evrybo",
+    "image": "/evrybo.jpg",
+    "uri": "evrybo",
+    "description": ""
+  },
+  {
+    "category": "design-feedback",
+    "link": "https://zipboard.co/",
+    "name": "Zipboard",
+    "image": "/zipboard.png",
+    "uri": "zipboard",
+    "description": ""
+  },
+  {
+    "category": "live-chat",
+    "link": "https://www.zendesk.com/chat/",
+    "name": "Zendesk Chat",
+    "image": "/zendesk-chat.jpg",
+    "uri": "zendesk-chat",
+    "description": ""
+  },
+  {
+    "category": "live-chat",
+    "link": "https://www.intercom.com/",
+    "name": "Intercom",
+    "image": "/intercom.jpg",
+    "uri": "intercom",
+    "description": ""
+  },
+  {
+    "category": "live-chat",
+    "link": "https://snapengage.com/",
+    "name": "Snapengage",
+    "image": "/snapengage.png",
+    "uri": "snapengage",
+    "description": ""
+  },
+  {
+    "category": "live-chat",
+    "link": "https://www.olark.com/",
+    "name": "Olark",
+    "image": "/olark.jpg",
+    "uri": "olark",
+    "description": ""
+  },
+  {
+    "category": "live-chat",
+    "link": "http://www.liveperson.com/",
+    "name": "Liveperson",
+    "image": "/liveperson.jpg",
+    "uri": "liveperson",
+    "description": ""
+  },
+  {
+    "category": "live-chat",
+    "link": "https://www.livechatinc.com/",
+    "name": "Livechatinc",
+    "image": "/livechatinc.jpg",
+    "uri": "livechatinc",
+    "description": ""
+  },
+  {
+    "category": "live-chat",
+    "link": "https://www.comm100.com/livechat/",
+    "name": "Comm100",
+    "image": "/comm100.png",
+    "uri": "comm100",
+    "description": ""
+  },
+  {
+    "category": "presentations",
+    "link": "https://www.zoho.com/docs/show.html",
+    "name": "Zoho Docs",
+    "image": "/zoho-docs.jpg",
+    "uri": "zoho-docs",
+    "description": ""
+  },
+  {
+    "category": "presentations",
+    "link": "https://www.visme.co/",
+    "name": "Visme",
+    "image": "/visme.jpg",
+    "uri": "visme",
+    "description": ""
+  },
+  {
+    "category": "presentations",
+    "link": "http://www.knovio.com/",
+    "name": "Knovio",
+    "image": "/knovio.jpg",
+    "uri": "knovio",
+    "description": ""
+  },
+  {
+    "category": "presentations",
+    "link": "https://slides.com/",
+    "name": "Slides",
+    "image": "/slides.png",
+    "uri": "slides",
+    "description": ""
+  },
+  {
+    "category": "presentations",
+    "link": "https://www.haikudeck.com/",
+    "name": "Haikudeck",
+    "image": "/haikudeck.png",
+    "uri": "haikudeck",
+    "description": ""
+  },
+  {
+    "category": "presentations",
+    "link": "https://piktochart.com/",
+    "name": "Piktochart",
+    "image": "/piktochart.jpg",
+    "uri": "piktochart",
+    "description": ""
+  },
+  {
+    "category": "presentations",
+    "link": "http://glisser.com/",
+    "name": "Glisser",
+    "image": "/glisser.jpg",
+    "uri": "glisser",
+    "description": ""
+  },
+  {
+    "category": "story-mapping",
+    "link": "http://storiesonboard.com/",
+    "name": "StoriesOnBoard",
+    "image": "/storiesonboard.jpg",
+    "uri": "storiesonboard",
+    "description": ""
+  },
+  {
+    "category": "story-mapping",
+    "link": "https://www.featuremap.co/en",
+    "name": "FeatureMap",
+    "image": "/featuremap.png",
+    "uri": "featuremap",
+    "description": ""
+  },
+  {
+    "category": "story-mapping",
+    "link": "https://realtimeboard.com/examples/user-story-map/",
+    "name": "RealtimeBoard",
+    "image": "/realtimeboard.jpg",
+    "uri": "realtimeboard",
+    "description": ""
+  },
+  {
+    "category": "story-mapping",
+    "link": "https://cardboardit.com/",
+    "name": "Cardboardit",
+    "image": "/cardboardit.jpg",
+    "uri": "cardboardit",
+    "description": ""
+  },
+  {
+    "category": "story-mapping",
+    "link": "http://trello.com",
+    "name": "Trello",
+    "image": "/trello.jpg",
+    "uri": "trello",
+    "description": ""
+  },
+  {
+    "category": "storyboard",
+    "link": "https://theplot.io/",
+    "name": "Plot",
+    "image": "/plot.png",
+    "uri": "plot",
+    "description": ""
+  },
+  {
+    "category": "storyboard",
+    "link": "http://www.storyboardthat.com/",
+    "name": "Storyboard That",
+    "image": "/storyboard-that.png",
+    "uri": "storyboard-that",
+    "description": ""
+  },
+  {
+    "category": "storyboard",
+    "link": "https://boords.com/",
+    "name": "Boords",
+    "image": "/boords.jpg",
+    "uri": "boords",
+    "description": ""
+  },
+  {
+    "category": "storyboard",
+    "link": "https://www.canva.com/create/storyboards/",
+    "name": "Canva",
+    "image": "/canva.jpg",
+    "uri": "canva",
+    "description": ""
+  },
+  {
+    "category": "storyboard",
+    "link": "https://wonderunit.com/storyboarder/",
+    "name": "Storyboarder",
+    "image": "",
+    "uri": "storyboarder",
+    "description": ""
+  },
+  {
+    "category": "design-guide-patterns",
+    "link": "http://www.goodui.org/",
+    "name": "GoodUI",
+    "image": "/goodui.jpg",
+    "uri": "goodui",
+    "description": ""
+  },
+  {
+    "category": "design-guide-patterns",
+    "link": "http://patternry.com/",
+    "name": "Patternry",
+    "image": "/patternry.png",
+    "uri": "patternry",
+    "description": ""
+  },
+  {
+    "category": "design-guide-patterns",
+    "link": "https://frontify.com/",
+    "name": "Frontify",
+    "image": "/frontify.png",
+    "uri": "frontify",
+    "description": ""
+  },
+  {
+    "category": "design-guide-patterns",
+    "link": "http://pttrns.com/",
+    "name": "Pttrns",
+    "image": "/pttrns.jpg",
+    "uri": "pttrns",
+    "description": ""
+  },
+  {
+    "category": "design-guide-patterns",
+    "link": "http://uxarchive.com/",
+    "name": "UX Archive",
+    "image": "/ux-archive.png",
+    "uri": "ux-archive",
+    "description": ""
+  },
+  {
+    "category": "design-guide-patterns",
+    "link": "http://littlebigdetails.com/",
+    "name": "Little Big Details",
+    "image": "/little-big-details.png",
+    "uri": "little-big-details",
+    "description": ""
+  },
+  {
+    "category": "media-graphic",
+    "link": "https://coolors.co/",
+    "name": "Coolors",
+    "image": "/coolors.svg",
+    "uri": "coolors",
+    "description": ""
+  },
+  {
+    "category": "media-graphic",
+    "link": "http://unsplash.com",
+    "name": "Unsplash",
+    "image": "/unsplash.jpeg",
+    "uri": "unsplash",
+    "description": ""
+  },
+  {
+    "category": "media-graphic",
+    "link": "http://dissolve.com/",
+    "name": "Dissolve",
+    "image": "/dissolve.png",
+    "uri": "dissolve",
+    "description": ""
+  },
+  {
+    "category": "media-graphic",
+    "link": "https://www.materialpalette.com/",
+    "name": "Materialpalette",
+    "image": "",
+    "uri": "materialpalette",
+    "description": ""
+  },
+  {
+    "category": "media-graphic",
+    "link": "http://www.colorhunter.com/",
+    "name": "Colorhunter",
+    "image": "",
+    "uri": "colorhunter",
+    "description": ""
+  },
+  {
+    "category": "media-graphic",
+    "link": "https://brandcolors.net/",
+    "name": "Brandcolors",
+    "image": "/brandcolors.jpg",
+    "uri": "brandcolors",
+    "description": ""
+  },
+  {
+    "category": "media-graphic",
+    "link": "https://mariodelvalle.github.io/CaptainIconWeb/",
+    "name": "Captain Icon",
+    "image": "/captain-icon.svg",
+    "uri": "captain-icon",
+    "description": ""
+  },
+  {
+    "category": "typography",
+    "link": "https://www.fontspring.com/",
+    "name": "Fontspring",
+    "image": "/fontspring.jpg",
+    "uri": "fontspring",
+    "description": ""
+  },
+  {
+    "category": "typography",
+    "link": "https://fonts.google.com/",
+    "name": "Google Fonts",
+    "image": "/google-fonts.jpg",
+    "uri": "google-fonts",
+    "description": ""
+  },
+  {
+    "category": "typography",
+    "link": "https://typekit.com/",
+    "name": "Typekit",
+    "image": "/typekit.jpg",
+    "uri": "typekit",
+    "description": ""
+  },
+  {
+    "category": "typography",
+    "link": "http://www.myfonts.com/",
+    "name": "MyFonts",
+    "image": "/myfonts.jpg",
+    "uri": "myfonts",
+    "description": ""
+  },
+  {
+    "category": "typography",
+    "link": "https://www.fontshop.com/",
+    "name": "FontShop",
+    "image": "/fontshop.png",
+    "uri": "fontshop",
+    "description": ""
+  },
+  {
+    "category": "typography",
+    "link": "https://www.fontsquirrel.com/",
+    "name": "Fontsquirrel",
+    "image": "/fontsquirrel.png",
+    "uri": "fontsquirrel",
+    "description": ""
+  },
+  {
+    "category": "typography",
+    "link": "http://www.dafont.com/",
+    "name": "Dafont",
+    "image": "/dafont.png",
+    "uri": "dafont",
+    "description": ""
+  },
+  {
+    "category": "screen-grabbing",
+    "link": "http://browsershots.org/",
+    "name": "Browsershots",
+    "image": "/browsershots.png",
+    "uri": "browsershots",
+    "description": ""
+  },
+  {
+    "category": "screen-grabbing",
+    "link": "https://www.techsmith.com/screen-capture.html",
+    "name": "Snagit",
+    "image": "/snagit.svg",
+    "uri": "snagit",
+    "description": ""
+  },
+  {
+    "category": "screen-grabbing",
+    "link": "https://app.prntscr.com/en/index.html",
+    "name": "Lightshot",
+    "image": "/lightshot.png",
+    "uri": "lightshot",
+    "description": ""
+  },
+  {
+    "category": "screen-grabbing",
+    "link": "http://getgreenshot.org/",
+    "name": "Greenshot",
+    "image": "/greenshot.png",
+    "uri": "greenshot",
+    "description": ""
+  },
+  {
+    "category": "screen-grabbing",
+    "link": "https://snag.gy/",
+    "name": "Snaggy",
+    "image": "",
+    "uri": "snaggy",
+    "description": ""
+  },
+  {
+    "category": "screen-grabbing",
+    "link": "http://www.cockos.com/licecap/",
+    "name": "LICEcap",
+    "image": "/licecap.png?1385326366",
+    "uri": "licecap",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "https://instapage.com/",
+    "name": "Instapage",
+    "image": "/instapage.jpg",
+    "uri": "instapage",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "http://www.leadpages.net/",
+    "name": "Leadpages",
+    "image": "/leadpages.jpg",
+    "uri": "leadpages",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "http://fivesecondtest.com/",
+    "name": "Fivesecondtest",
+    "image": "/fivesecondtest.jpg",
+    "uri": "fivesecondtest",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "https://www.launchrock.com",
+    "name": "Launchrock",
+    "image": "",
+    "uri": "launchrock",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "http://www.clickthroo.com/",
+    "name": "Clickthroo",
+    "image": "/clickthroo.png",
+    "uri": "clickthroo",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "https://landingi.com/",
+    "name": "Landingi",
+    "image": "/landingi.jpg",
+    "uri": "landingi",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "http://unbounce.com/",
+    "name": "Unbounce",
+    "image": "/unbounce.png",
+    "uri": "unbounce",
+    "description": ""
+  },
+  {
+    "category": "landing-page",
+    "link": "https://vwo.com/landing-page-analyzer/",
+    "name": "Vwo/landing-page-analyzer",
+    "image": "/vwo-landing-page-analyzer.png",
+    "uri": "vwo-landing-page-analyzer",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://www.optimizely.com/resources/sample-size-calculator/",
+    "name": "Sample Size Calculator - Optimizely",
+    "image": "/sample-size-calculator-optimizely.jpg",
+    "uri": "sample-size-calculator-optimizely",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://www.optimizely.com/",
+    "name": "Optimizely",
+    "image": "/optimizely.jpg",
+    "uri": "optimizely",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://www.convert.com/",
+    "name": "Convert",
+    "image": "/convert.png",
+    "uri": "convert",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://www.abtasty.com/uk/",
+    "name": "AB Tasty",
+    "image": "/ab-tasty.png",
+    "uri": "ab-tasty",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "http://www.eyequant.com/",
+    "name": "Eyequant",
+    "image": "/eyequant.png",
+    "uri": "eyequant",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://vwo.com/",
+    "name": "Vwo",
+    "image": "/vwo.png",
+    "uri": "vwo",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://conductrics.com/",
+    "name": "Conductrics",
+    "image": "/conductrics.png",
+    "uri": "conductrics",
+    "description": ""
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://www.kissmetrics.com/growth-tools/ab-significance-test/",
+    "name": "A/B Significance Tests - Kissmetrics",
+    "image": "/a-b-significance-tests-kissmetrics.png",
+    "uri": "a-b-significance-tests-kissmetrics",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "https://analytics.google.com",
+    "name": "Google Analytics",
+    "image": "/google-analytics.jpg",
+    "uri": "google-analytics",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "https://matomo.org/",
+    "name": "Matomo",
+    "image": "/matomo.jpg",
+    "uri": "matomo",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "http://www.luckyorange.com/",
+    "name": "Luckyorange",
+    "image": "/luckyorange.jpg",
+    "uri": "luckyorange",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "https://www.kissmetrics.com/",
+    "name": "Kissmetrics",
+    "image": "/kissmetrics.png",
+    "uri": "kissmetrics",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "https://www.woopra.com/",
+    "name": "Woopra",
+    "image": "/woopra.png",
+    "uri": "woopra",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "https://heapanalytics.com/",
+    "name": "Heapanalytics",
+    "image": "",
+    "uri": "heapanalytics",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "https://www.appsee.com/",
+    "name": "Appsee",
+    "image": "/appsee.jpg",
+    "uri": "appsee",
+    "description": ""
+  },
+  {
+    "category": "web-mobile-analytics",
+    "link": "https://t.co/RkNW8bdS9H",
+    "name": "FreshMarketer",
+    "image": "/freshmarketer.jpg",
+    "uri": "freshmarketer",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "https://developers.google.com/web/tools/lighthouse/",
+    "name": "Google Lighthouse",
+    "image": "/google-lighthouse.png",
+    "uri": "google-lighthouse",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "https://gtmetrix.com/",
+    "name": "Gtmetrix",
+    "image": "/gtmetrix.jpg",
+    "uri": "gtmetrix",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "https://www.pingdom.com/",
+    "name": "Pingdom",
+    "image": "/pingdom.jpg",
+    "uri": "pingdom",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "http://yslow.org/",
+    "name": "Yslow",
+    "image": "/yslow.png",
+    "uri": "yslow",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "http://yellowlab.tools/",
+    "name": "YellowLab Tools",
+    "image": "/yellowlab-tools.png?raw=true",
+    "uri": "yellowlab-tools",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "http://www.webpagetest.org/",
+    "name": "WebPagetest",
+    "image": "/webpagetest.png",
+    "uri": "webpagetest",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "http://pagelocity.com/",
+    "name": "Pagelocity",
+    "image": "/pagelocity.png",
+    "uri": "pagelocity",
+    "description": ""
+  },
+  {
+    "category": "web-performance-optimization",
+    "link": "https://varvy.com/pagespeed/",
+    "name": "Varvy Pagespeed",
+    "image": "/varvy-pagespeed.png",
+    "uri": "varvy-pagespeed",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "http://colorsafe.co/",
+    "name": "Color Safe",
+    "image": "/color-safe.png",
+    "uri": "color-safe",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "http://halogensoftworks.com/shade/",
+    "name": "Shade",
+    "image": "",
+    "uri": "shade",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "http://squizlabs.github.io/HTML_CodeSniffer/",
+    "name": "HTML CodeSniffer",
+    "image": "/html-codesniffer.png",
+    "uri": "html-codesniffer",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "https://www.totalvalidator.com/",
+    "name": "TotalValidator",
+    "image": "/totalvalidator.gif",
+    "uri": "totalvalidator",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "https://validator.w3.org/unicorn/",
+    "name": "W3C Validator",
+    "image": "/w3c-validator.png",
+    "uri": "w3c-validator",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "https://www.deque.com/axe/",
+    "name": "aXe",
+    "image": "/axe.png",
+    "uri": "axe",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "http://wave.webaim.org/",
+    "name": "Wave",
+    "image": "/wave.png",
+    "uri": "wave",
+    "description": ""
+  },
+  {
+    "category": "accessibility",
+    "link": "https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll",
+    "name": "Revenge.css",
+    "image": "",
+    "uri": "revenge-css",
+    "description": ""
+  },
+  {
+    "category": "ux-suite",
+    "link": "http://userzoom.com",
+    "name": "UserZoom",
+    "image": "/userzoom.png",
+    "uri": "userzoom",
+    "description": ""
+  },
+  {
+    "category": "ux-suite",
+    "link": "http://www.mousestats.com/",
+    "name": "MouseStats",
+    "image": "/mousestats.png",
+    "uri": "mousestats",
+    "description": ""
+  },
+  {
+    "category": "ux-suite",
+    "link": "https://www.hotjar.com",
+    "name": "Hotjar",
+    "image": "/hotjar.jpg",
+    "uri": "hotjar",
+    "description": ""
+  },
+  {
+    "category": "ux-suite",
+    "link": "https://www.caravel.design/",
+    "name": "Caravel",
+    "image": "/caravel.jpg",
+    "uri": "caravel",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "http://www.usefulfruit.com/pearnote/",
+    "name": "Peranote",
+    "image": "/peranote.png",
+    "uri": "peranote",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "https://evernote.com/",
+    "name": "Evernote",
+    "image": "/evernote.jpg",
+    "uri": "evernote",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "https://www.diigo.com/",
+    "name": "Diigo",
+    "image": "/diigo.jpg",
+    "uri": "diigo",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "https://quip.com/",
+    "name": "Quip",
+    "image": "/quip.jpg",
+    "uri": "quip",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "https://litewrite.net/",
+    "name": "Litewrite",
+    "image": "",
+    "uri": "litewrite",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "https://simplenote.com/",
+    "name": "Simplenote",
+    "image": "/simplenote.png",
+    "uri": "simplenote",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "https://www.google.com/keep/",
+    "name": "Google Keep",
+    "image": "/google-keep.png",
+    "uri": "google-keep",
+    "description": ""
+  },
+  {
+    "category": "notetaking",
+    "link": "https://paper.dropbox.com/welcome",
+    "name": "Dropbox Paper",
+    "image": "/dropbox-paper.jpg",
+    "uri": "dropbox-paper",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "https://www.meistertask.com/",
+    "name": "Meistertask",
+    "image": "/meistertask.jpg",
+    "uri": "meistertask",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "http://taiga.io",
+    "name": "Taiga",
+    "image": "/taiga.png",
+    "uri": "taiga",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "https://asana.com/",
+    "name": "Asana",
+    "image": "/asana.jpg",
+    "uri": "asana",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "https://www.wrike.com/",
+    "name": "Wrike",
+    "image": "/wrike.jpg",
+    "uri": "wrike",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "https://www.upwave.io/",
+    "name": "Upwave",
+    "image": "/upwave.jpg",
+    "uri": "upwave",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "http://basecamp.com",
+    "name": "Basecamp",
+    "image": "/basecamp.png",
+    "uri": "basecamp",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "https://www.teamwork.com/project-management-software",
+    "name": "Teamwork",
+    "image": "/teamwork.jpg",
+    "uri": "teamwork",
+    "description": ""
+  },
+  {
+    "category": "project-management",
+    "link": "https://kanbanize.com/",
+    "name": "Kanbanize",
+    "image": "/kanbanize.png",
+    "uri": "kanbanize",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "http://www.uxswitch.com/",
+    "name": "UX Switch",
+    "image": "/ux-switch.png",
+    "uri": "ux-switch",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "http://www.justuxjobs.com/",
+    "name": "Just UX Jobs",
+    "image": "/just-ux-jobs.png",
+    "uri": "just-ux-jobs",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "https://www.uxjobsboard.com/",
+    "name": "UX Jobs Board",
+    "image": "/ux-jobs-board.jpg",
+    "uri": "ux-jobs-board",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "http://uxdesignjobs.com/",
+    "name": "UX Design Jobs",
+    "image": "/ux-design-jobs.jpg",
+    "uri": "ux-design-jobs",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "https://www.uxjobs.io/",
+    "name": "UX Jobs",
+    "image": "/ux-jobs.jpg",
+    "uri": "ux-jobs",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "https://weworkremotely.com/",
+    "name": "We Work Remotely",
+    "image": "/we-work-remotely.jpeg",
+    "uri": "we-work-remotely",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "https://stackoverflow.com/jobs/developer-jobs-using-ux",
+    "name": "UX Jobs - Stack Overflow",
+    "image": "/ux-jobs-stack-overflow.png",
+    "uri": "ux-jobs-stack-overflow",
+    "description": ""
+  },
+  {
+    "category": "jobs",
+    "link": "https://dribbble.com/jobs",
+    "name": "Jobs - Dribble",
+    "image": "/jobs-dribble.png",
+    "uri": "jobs-dribble",
+    "description": ""
+  }
+]
 }

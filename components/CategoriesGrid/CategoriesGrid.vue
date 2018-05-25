@@ -1,7 +1,10 @@
 <template>
-  <div class="c-categories-grid">
-    <nuxt-link v-for="c in categories" :key="c.name" :to="c.url" class="c-category">
-      {{ c.name }}
+  <div class="Categories-grid">
+    <nuxt-link v-for="category in categories"
+               :key="category.name"
+               :to="category.url"
+               class="Category u-padding-small">
+      {{ category.name }}
     </nuxt-link>
   </div>
 </template>
@@ -13,23 +16,23 @@ export default {
   name: 'CategoriesGrid',
   data () {
     return {
-      categories
+      categories,
     }
-  }
+  },
 }
 </script>
 
 <style lang="scss">
-.c-categories-grid {
+.Categories-grid {
   $size: 12vmax;
 
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax($size, 1fr));
   grid-auto-rows: $size;
-  grid-gap: 2rem;
+  grid-gap: $global-spacing-unit;
 }
 
-.c-category {
+.Category {
   text-align: center;
   background-color: #f1f1f2;
   transition: all ease 0.2s;

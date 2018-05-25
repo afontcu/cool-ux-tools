@@ -1,7 +1,6 @@
 <template>
   <main>
-    <h1>asd</h1>
-    <categories-grid />
+    <categories-grid class="u-margin-vertical-large"/>
   </main>
 </template>
 
@@ -10,8 +9,8 @@ import CategoriesGrid from '@/components/CategoriesGrid'
 
 export default {
   components: {
-    CategoriesGrid
-  }
+    CategoriesGrid,
+  },
 }
 </script>
 
