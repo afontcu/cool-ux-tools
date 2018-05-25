@@ -1,20 +1,22 @@
 module.exports = {
-  css: [
-    '@/assets/main.scss'
+  modules: [
+    ['nuxt-sass-resources-loader', [
+      '@/assets/autoload.scss',
+    ]],
   ],
   /*
   ** Headers of the page
   */
   head: {
-    title: 'uxstack',
+    title: 'UX Stack',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Nuxt.js project' }
+      { hid: 'description', name: 'description', content: 'Nuxt.js project' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+    ],
   },
   /*
   ** Customize the progress bar color
@@ -33,9 +35,9 @@ module.exports = {
           enforce: 'pre',
           test: /\.(js|vue)$/,
           loader: 'eslint-loader',
-          exclude: /(node_modules)/
+          exclude: /(node_modules)/,
         })
       }
-    }
-  }
+    },
+  },
 }
