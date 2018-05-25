@@ -18,6 +18,7 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    'comma-dangle': ['error', 'always-multiline'],
     'arrow-parens': 0, // allow paren-less arrow functions
     'generator-star-spacing': 0, // allow async-await
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 0,
