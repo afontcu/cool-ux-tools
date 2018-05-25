@@ -6,16 +6,29 @@
           <img src="~assets/logo.png" alt="UX Stack" width="200">
         </nuxt-link>
         <div>
-          UX Stack is a curated list with the best UX tools to research, design, manage and comunicate your UX projects.
+          UX Stack is a curated list with the best UX tools to research, design and manage your UX projects.
         </div>
       </div>
     </header>
-    <nuxt class="o-wrapper" />
-    <footer class="o-wrapper">
-      Made with love by <a href="https://twitter.com/afontcu_">@afontcu_</a> · <a href="https://github.com/afontcu/uxstack" name="Github">Github</a>
+    <nuxt class="o-wrapper u-margin-bottom-huge" />
+    <footer class="Layout__footer u-padding">
+      <div class="o-wrapper">
+        Made with 💚 by <FancyLink href="https://twitter.com/afontcu_" title="Twitter">@afontcu_</FancyLink> ·
+        <FancyLink href="https://github.com/afontcu/uxstack" title="Github">Github</FancyLink>
+      </div>
     </footer>
   </div>
 </template>
+
+<script>
+import FancyLink from '@/components/FancyLink'
+
+export default {
+  components: {
+    FancyLink,
+  },
+}
+</script>
 
 <style lang="scss">
 @import "~assets/main";
@@ -25,34 +38,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  position: relative;
   text-decoration: none;
   color: inherit;
-  transition: color $global-transition ease;
-
-  &:hover {
-    color: #aaa;
-
-    &::before {
-      width: 100%;
-      left: 0;
-    }
-
-  }
-
-  &::before {
-    content: "";
-    position: absolute;
-    top: calc(100% + 1px);
-    width: 0;
-    right: 0;
-    height: 3px;
-  }
-
-  &::before {
-    transition: width 0.3s cubic-bezier(0.53, 0.02, 0.52, 0.99) 0.1s;
-    background: map-get($global-colors, 'branding-primary');
-  }
 }
 
 html, body {
@@ -70,5 +57,9 @@ html, body {
 .Layout__header {
   background-color: map-get($global-colors, 'branding-primary');
   color: white;
+}
+
+.Layout__footer {
+  background-color: #f1f1f2;
 }
 </style>
