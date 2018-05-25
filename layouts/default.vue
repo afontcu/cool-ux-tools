@@ -3,18 +3,22 @@
     <header class="Layout__header">
       <div class="o-wrapper u-padding u-margin-bottom">
         <nuxt-link to="/" class="u-text-light u-text-h3">
-          <img src="~assets/logo.png" alt="UX Stack" width="200">
+          <img src="~assets/logo.png" alt="UX Stack" width="200" class="u-margin-bottom">
         </nuxt-link>
-        <div>
-          UX Stack is a curated list with the best UX tools to research, design and manage your UX projects.
+        <div class="u-text-h5">
+          UX Stack is a curated list of the best UX tools to research, design and manage your UX projects.
         </div>
       </div>
     </header>
     <nuxt class="o-wrapper u-margin-bottom-huge" />
     <footer class="Layout__footer u-padding">
-      <div class="o-wrapper">
-        Made with 💚 by <FancyLink href="https://twitter.com/afontcu_" title="Twitter">@afontcu_</FancyLink> ·
+      <div class="o-wrapper u-flex">
+        Made with 💚 by <FancyLink href="https://twitter.com/afontcu_" title="Twitter">@afontcu_</FancyLink>
+        <span class="u-padding-horizontal-tiny">·</span>
         <FancyLink href="https://github.com/afontcu/uxstack" title="Github">Github</FancyLink>
+        <div class="u-margin-left-auto">
+          UX Stack is forever free and updated in a regular basis. Stay tuned!
+        </div>
       </div>
     </footer>
   </div>
