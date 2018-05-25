@@ -3,8 +3,11 @@
     <nuxt-link v-for="category in categories"
                :key="category.name"
                :to="category.url"
-               class="Category u-padding-small">
-      {{ category.name }}
+               class="Categories-grid__item u-text-h5"
+    >
+      <div class="u-padding">
+        {{ category.name }}
+      </div>
     </nuxt-link>
   </div>
 </template>
@@ -24,21 +27,24 @@ export default {
 
 <style lang="scss">
 .Categories-grid {
-  $size: 12vmax;
+  $item-size: 150px;
 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax($size, 1fr));
-  grid-auto-rows: $size;
+  grid-template-columns: repeat(auto-fill, minmax($item-size, 1fr));
   grid-gap: $global-spacing-unit;
 }
 
-.Category {
-  text-align: center;
+.Categories-grid__item {
   background-color: #f1f1f2;
   transition: all ease 0.2s;
 
+  padding-bottom: 100%;
+  width: 100%;
+  height: 0;
+
   &:hover {
-    background-color: #acc743;
+    color: white;
+    background-color: map-get($global-colors, 'branding-primary');
   }
 }
 </style>
