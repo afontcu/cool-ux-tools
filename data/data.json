@@ -152,1600 +152,1400 @@
     "link": "https://ethn.io/",
     "name": "Ethnio",
     "image": "/ethnio.png",
-    "uri": "ethnio",
-    "description": ""
+    "uri": "ethnio"
   },
   {
     "category": "user-recruiting",
     "link": "http://www.trymyui.com/",
     "name": "Try My UI",
     "image": "/try-my-ui.png",
-    "uri": "try-my-ui",
-    "description": ""
+    "uri": "try-my-ui"
   },
   {
     "category": "user-recruiting",
     "link": "https://usabilityhub.com/",
     "name": "Usability HUB",
     "image": "/usability-hub.jpg",
-    "uri": "usability-hub",
-    "description": ""
+    "uri": "usability-hub"
   },
   {
     "category": "user-recruiting",
     "link": "https://validately.com/",
     "name": "Validately",
     "image": "/validately.png",
-    "uri": "validately",
-    "description": ""
+    "uri": "validately"
   },
   {
     "category": "user-recruiting",
     "link": "https://userbob.com/",
     "name": "UserBob",
     "image": "/userbob.svg",
-    "uri": "userbob",
-    "description": ""
+    "uri": "userbob"
   },
   {
     "category": "user-recruiting",
     "link": "https://www.userfeel.com/",
     "name": "UserFeel",
     "image": "/userfeel.svg",
-    "uri": "userfeel",
-    "description": ""
+    "uri": "userfeel"
   },
   {
     "category": "user-recruiting",
     "link": "https://dscout.com/",
     "name": "dscout",
     "image": "/dscout.jpg",
-    "uri": "dscout",
-    "description": ""
+    "uri": "dscout"
   },
   {
     "category": "user-recruiting",
     "link": "https://www.usertesting.com/",
     "name": "UserTesting",
     "image": "/usertesting.jpg",
-    "uri": "usertesting",
-    "description": ""
+    "uri": "usertesting"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://www.smartlook.com/",
     "name": "Smartlook",
     "image": "/smartlook.png",
-    "uri": "smartlook",
-    "description": ""
+    "uri": "smartlook"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://mouseflow.com/",
     "name": "Mouseflow",
     "image": "/mouseflow.png",
-    "uri": "mouseflow",
-    "description": ""
+    "uri": "mouseflow"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://lookback.io/",
     "name": "Lookback",
     "image": "/lookback.jpg",
-    "uri": "lookback",
-    "description": ""
+    "uri": "lookback"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://www.inspectlet.com/",
     "name": "Inspectlet",
     "image": "",
-    "uri": "inspectlet",
-    "description": ""
+    "uri": "inspectlet"
   },
   {
     "category": "user-recording-heatmap",
     "link": "http://www.getjaco.com/",
     "name": "Jaco",
     "image": "/jaco.png",
-    "uri": "jaco",
-    "description": ""
+    "uri": "jaco"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://www.crazyegg.com/",
     "name": "Crazyegg",
     "image": "/crazyegg.png",
-    "uri": "crazyegg",
-    "description": ""
+    "uri": "crazyegg"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://www.clicktale.com/",
     "name": "Clicktale",
     "image": "/clicktale.jpg",
-    "uri": "clicktale",
-    "description": ""
+    "uri": "clicktale"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://eyesdecide.com/",
     "name": "EyesDecide",
     "image": "/eyesdecide.jpg",
-    "uri": "eyesdecide",
-    "description": ""
+    "uri": "eyesdecide"
   },
   {
     "category": "onsite-surveys",
     "link": "https://qualaroo.com/",
     "name": "Qualaroo",
     "image": "/qualaroo.jpg",
-    "uri": "qualaroo",
-    "description": ""
+    "uri": "qualaroo"
   },
   {
     "category": "onsite-surveys",
     "link": "https://webengage.com/",
     "name": "Web Engage",
     "image": "/web-engage.jpg",
-    "uri": "web-engage",
-    "description": ""
+    "uri": "web-engage"
   },
   {
     "category": "onsite-surveys",
     "link": "https://www.iperceptions.com/",
     "name": "Iperceptions",
     "image": "/iperceptions.jpg",
-    "uri": "iperceptions",
-    "description": ""
+    "uri": "iperceptions"
   },
   {
     "category": "onsite-surveys",
     "link": "https://yesinsights.com/",
     "name": "Yesinsights",
     "image": "/yesinsights.png",
-    "uri": "yesinsights",
-    "description": ""
+    "uri": "yesinsights"
   },
   {
     "category": "onsite-surveys",
     "link": "https://survicate.com/",
     "name": "Survicate",
     "image": "/survicate.jpg",
-    "uri": "survicate",
-    "description": ""
+    "uri": "survicate"
   },
   {
     "category": "onsite-surveys",
     "link": "https://www.getfeedback.com/",
     "name": "GetFeedback",
     "image": "/getfeedback.jpg",
-    "uri": "getfeedback",
-    "description": ""
+    "uri": "getfeedback"
   },
   {
     "category": "surveys",
     "link": "https://www.typeform.com/",
     "name": "Typeform",
     "image": "/typeform.jpg",
-    "uri": "typeform",
-    "description": ""
+    "uri": "typeform"
   },
   {
     "category": "surveys",
     "link": "https://polldaddy.com/",
     "name": "Polldaddy",
     "image": "/polldaddy.png",
-    "uri": "polldaddy",
-    "description": ""
+    "uri": "polldaddy"
   },
   {
     "category": "surveys",
     "link": "https://www.surveygizmo.com/",
     "name": "Surveygizmo",
     "image": "/surveygizmo.jpg",
-    "uri": "surveygizmo",
-    "description": ""
+    "uri": "surveygizmo"
   },
   {
     "category": "surveys",
     "link": "https://www.google.com/intl/en/forms/about/",
     "name": "Google Forms",
     "image": "/google-forms.jpg",
-    "uri": "google-forms",
-    "description": ""
+    "uri": "google-forms"
   },
   {
     "category": "surveys",
     "link": "https://www.surveymonkey.com/",
     "name": "Surveymonkey",
     "image": "/surveymonkey.jpg",
-    "uri": "surveymonkey",
-    "description": ""
+    "uri": "surveymonkey"
   },
   {
     "category": "surveys",
     "link": "https://surveynuts.com/",
     "name": "Surveynuts",
     "image": "/surveynuts.png",
-    "uri": "surveynuts",
-    "description": ""
+    "uri": "surveynuts"
   },
   {
     "category": "surveys",
     "link": "https://esurv.org/",
     "name": "Esurv",
     "image": "",
-    "uri": "esurv",
-    "description": ""
+    "uri": "esurv"
   },
   {
     "category": "surveys",
     "link": "http://www.poll-maker.com/",
     "name": "Poll-maker",
     "image": "/poll-maker.png",
-    "uri": "poll-maker",
-    "description": ""
+    "uri": "poll-maker"
   },
   {
     "category": "user-journey",
     "link": "https://uxpressia.com/",
     "name": "UXpressia",
     "image": "/uxpressia.jpg",
-    "uri": "uxpressia",
-    "description": ""
+    "uri": "uxpressia"
   },
   {
     "category": "user-journey",
     "link": "https://www.smaply.com/",
     "name": "Smaply",
     "image": "/smaply.jpg",
-    "uri": "smaply",
-    "description": ""
+    "uri": "smaply"
   },
   {
     "category": "user-journey",
     "link": "http://touchpointdashboard.com/",
     "name": "Touchpoint Dashboard",
     "image": "/touchpoint-dashboard.jpg",
-    "uri": "touchpoint-dashboard",
-    "description": ""
+    "uri": "touchpoint-dashboard"
   },
   {
     "category": "user-journey",
     "link": "https://autopilothq.com/",
     "name": "Autopilothq",
     "image": "/autopilothq.jpg",
-    "uri": "autopilothq",
-    "description": ""
+    "uri": "autopilothq"
   },
   {
     "category": "user-journey",
     "link": "https://custellence.com/",
     "name": "Custellence",
     "image": "/custellence.svg",
-    "uri": "custellence",
-    "description": ""
+    "uri": "custellence"
   },
   {
     "category": "user-journey",
     "link": "https://realtimeboard.com/",
     "name": "Realtime Board",
     "image": "/realtime-board.jpg",
-    "uri": "realtime-board",
-    "description": ""
+    "uri": "realtime-board"
   },
   {
     "category": "user-journey",
     "link": "http://www.experiencefellow.com/",
     "name": "ExperienceFellow",
     "image": "/experiencefellow.png",
-    "uri": "experiencefellow",
-    "description": ""
+    "uri": "experiencefellow"
   },
   {
     "category": "user-persona",
     "link": "https://xtensio.com/user-persona/",
     "name": "Xtensio User Persona Creator",
     "image": "/xtensio-user-persona-creator.jpg",
-    "uri": "xtensio-user-persona-creator",
-    "description": ""
+    "uri": "xtensio-user-persona-creator"
   },
   {
     "category": "user-persona",
     "link": "http://userforge.com/",
     "name": "Userforge",
     "image": "/userforge.jpeg",
-    "uri": "userforge",
-    "description": ""
+    "uri": "userforge"
   },
   {
     "category": "user-persona",
     "link": "http://www.makemypersona.com/",
     "name": "Make My Persona - Hubspot",
     "image": "/make-my-persona-hubspot.png",
-    "uri": "make-my-persona-hubspot",
-    "description": ""
+    "uri": "make-my-persona-hubspot"
   },
   {
     "category": "user-persona",
     "link": "https://randomuser.me/",
     "name": "Random User Generator",
     "image": "/random-user-generator.png",
-    "uri": "random-user-generator",
-    "description": ""
+    "uri": "random-user-generator"
   },
   {
     "category": "card-sorting",
     "link": "http://www.uxsort.net/",
     "name": "UXSort",
     "image": "",
-    "uri": "uxsort",
-    "description": ""
+    "uri": "uxsort"
   },
   {
     "category": "card-sorting",
     "link": "https://www.optimalworkshop.com/optimalsort",
     "name": "OptimalSort",
     "image": "",
-    "uri": "optimalsort",
-    "description": ""
+    "uri": "optimalsort"
   },
   {
     "category": "card-sorting",
     "link": "https://www.simplecardsort.com/",
     "name": "Simplecardsort",
     "image": "/simplecardsort.png",
-    "uri": "simplecardsort",
-    "description": ""
+    "uri": "simplecardsort"
   },
   {
     "category": "card-sorting",
     "link": "http://www.usabilitest.com/CardSorting",
     "name": "Usabilitest CardSorting",
     "image": "/usabilitest-cardsorting.png",
-    "uri": "usabilitest-cardsorting",
-    "description": ""
+    "uri": "usabilitest-cardsorting"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "https://stormboard.com/",
     "name": "Stormboard",
     "image": "/stormboard.png",
-    "uri": "stormboard",
-    "description": ""
+    "uri": "stormboard"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "https://www.groupmap.com/",
     "name": "Groupmap",
     "image": "/groupmap.png",
-    "uri": "groupmap",
-    "description": ""
+    "uri": "groupmap"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "http://app.mindmapmaker.org/#m:new",
     "name": "MindMap Maker",
     "image": "/mindmap-maker.jpg",
-    "uri": "mindmap-maker",
-    "description": ""
+    "uri": "mindmap-maker"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "https://mural.co/",
     "name": "Mural",
     "image": "/mural.jpg",
-    "uri": "mural",
-    "description": ""
+    "uri": "mural"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "http://www.xmind.net/",
     "name": "Xmind",
     "image": "/xmind.jpg",
-    "uri": "xmind",
-    "description": ""
+    "uri": "xmind"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "https://www.smartdraw.com/",
     "name": "Smartdraw",
     "image": "/smartdraw.png?bn=1510011130",
-    "uri": "smartdraw",
-    "description": ""
+    "uri": "smartdraw"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "https://coggle.it/",
     "name": "Coggle",
     "image": "/coggle.png",
-    "uri": "coggle",
-    "description": ""
+    "uri": "coggle"
   },
   {
     "category": "mind-mapping-brainstorming",
     "link": "https://www.blankcanvas.io/",
     "name": "Blank Canvas",
     "image": "/blank-canvas.png",
-    "uri": "blank-canvas",
-    "description": ""
+    "uri": "blank-canvas"
   },
   {
     "category": "wireframing",
     "link": "http://sketchsheets.com/",
     "name": "Sketchsheets",
     "image": "",
-    "uri": "sketchsheets",
-    "description": ""
+    "uri": "sketchsheets"
   },
   {
     "category": "wireframing",
     "link": "https://moqups.com/",
     "name": "Moqups",
     "image": "/moqups.jpg",
-    "uri": "moqups",
-    "description": ""
+    "uri": "moqups"
   },
   {
     "category": "wireframing",
     "link": "https://marvelapp.com/pop/",
     "name": "POP - Prototyping on Paper",
     "image": "/pop-prototyping-on-paper.png",
-    "uri": "pop-prototyping-on-paper",
-    "description": ""
+    "uri": "pop-prototyping-on-paper"
   },
   {
     "category": "wireframing",
     "link": "https://balsamiq.com/",
     "name": "Balsamiq",
     "image": "/balsamiq.png",
-    "uri": "balsamiq",
-    "description": ""
+    "uri": "balsamiq"
   },
   {
     "category": "wireframing",
     "link": "https://mockflow.com/",
     "name": "Mockflow",
     "image": "/mockflow.png",
-    "uri": "mockflow",
-    "description": ""
+    "uri": "mockflow"
   },
   {
     "category": "wireframing",
     "link": "https://pidoco.com/en",
     "name": "Pidoco",
     "image": "/pidoco.png",
-    "uri": "pidoco",
-    "description": ""
+    "uri": "pidoco"
   },
   {
     "category": "mocking-prototyping",
     "link": "https://www.uxpower.tools/",
     "name": "UX Power Tools",
     "image": "/ux-power-tools.jpg",
-    "uri": "ux-power-tools",
-    "description": ""
+    "uri": "ux-power-tools"
   },
   {
     "category": "mocking-prototyping",
     "link": "http://dunnnk.com/",
     "name": "Dunnnk",
     "image": "",
-    "uri": "dunnnk",
-    "description": ""
+    "uri": "dunnnk"
   },
   {
     "category": "mocking-prototyping",
     "link": "http://www.infragistics.com/products/indigo-studio",
     "name": "Indigo Studio",
     "image": "/indigo-studio.png",
-    "uri": "indigo-studio",
-    "description": ""
+    "uri": "indigo-studio"
   },
   {
     "category": "mocking-prototyping",
     "link": "https://atomic.io/",
     "name": "Atomic",
     "image": "/atomic.jpg",
-    "uri": "atomic",
-    "description": ""
+    "uri": "atomic"
   },
   {
     "category": "mocking-prototyping",
     "link": "http://www.axure.com/",
     "name": "Axure",
     "image": "/axure.jpg",
-    "uri": "axure",
-    "description": ""
+    "uri": "axure"
   },
   {
     "category": "mocking-prototyping",
     "link": "https://www.irise.com/",
     "name": "Irise",
     "image": "/irise.jpg",
-    "uri": "irise",
-    "description": ""
+    "uri": "irise"
   },
   {
     "category": "mocking-prototyping",
     "link": "http://concept.ly/",
     "name": "Concept.ly",
     "image": "/concept-ly.png",
-    "uri": "concept-ly",
-    "description": ""
+    "uri": "concept-ly"
   },
   {
     "category": "mocking-prototyping",
     "link": "https://mockflow.com/",
     "name": "MocFlow",
     "image": "/mocflow.png",
-    "uri": "mocflow",
-    "description": ""
+    "uri": "mocflow"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://www.adobe.com/products/xd.html",
     "name": "Adobe Experience Developer",
     "image": "/adobe-experience-developer.jpg",
-    "uri": "adobe-experience-developer",
-    "description": ""
+    "uri": "adobe-experience-developer"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://www.sketchapp.com/",
     "name": "Sketch",
     "image": "/sketch.png",
-    "uri": "sketch",
-    "description": ""
+    "uri": "sketch"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://www.figma.com/",
     "name": "Figma",
     "image": "/figma.png",
-    "uri": "figma",
-    "description": ""
+    "uri": "figma"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://marvelapp.com/",
     "name": "Marvel",
     "image": "/marvel.jpg",
-    "uri": "marvel",
-    "description": ""
+    "uri": "marvel"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://proto.io/",
     "name": "Proto.io",
     "image": "/proto-io.jpg",
-    "uri": "proto-io",
-    "description": ""
+    "uri": "proto-io"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://origami.design/",
     "name": "Origami",
     "image": "/origami.png",
-    "uri": "origami",
-    "description": ""
+    "uri": "origami"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://www.uxpin.com/",
     "name": "Uxpin",
     "image": "/uxpin.jpg",
-    "uri": "uxpin",
-    "description": ""
+    "uri": "uxpin"
   },
   {
     "category": "high-fidelity-prototyping",
     "link": "https://framer.com/",
     "name": "Framer",
     "image": "/framer.jpg",
-    "uri": "framer",
-    "description": ""
+    "uri": "framer"
   },
   {
     "category": "design-feedback",
     "link": "https://www.notism.io/",
     "name": "Notism",
     "image": "/notism.jpg",
-    "uri": "notism",
-    "description": ""
+    "uri": "notism"
   },
   {
     "category": "design-feedback",
     "link": "https://bugherd.com/",
     "name": "Bugherd",
     "image": "/bugherd.png",
-    "uri": "bugherd",
-    "description": ""
+    "uri": "bugherd"
   },
   {
     "category": "design-feedback",
     "link": "https://www.invisionapp.com/",
     "name": "Invision",
     "image": "/invision.png",
-    "uri": "invision",
-    "description": ""
+    "uri": "invision"
   },
   {
     "category": "design-feedback",
     "link": "https://redpen.io/",
     "name": "Red Pen",
     "image": "/red-pen.png",
-    "uri": "red-pen",
-    "description": ""
+    "uri": "red-pen"
   },
   {
     "category": "design-feedback",
     "link": "https://www.designdrop.io/home.html",
     "name": "DesignDrop",
     "image": "/designdrop.png",
-    "uri": "designdrop",
-    "description": ""
+    "uri": "designdrop"
   },
   {
     "category": "design-feedback",
     "link": "https://evrybo.com/",
     "name": "Evrybo",
     "image": "/evrybo.jpg",
-    "uri": "evrybo",
-    "description": ""
+    "uri": "evrybo"
   },
   {
     "category": "design-feedback",
     "link": "https://zipboard.co/",
     "name": "Zipboard",
     "image": "/zipboard.png",
-    "uri": "zipboard",
-    "description": ""
+    "uri": "zipboard"
   },
   {
     "category": "live-chat",
     "link": "https://www.zendesk.com/chat/",
     "name": "Zendesk Chat",
     "image": "/zendesk-chat.jpg",
-    "uri": "zendesk-chat",
-    "description": ""
+    "uri": "zendesk-chat"
   },
   {
     "category": "live-chat",
     "link": "https://www.intercom.com/",
     "name": "Intercom",
     "image": "/intercom.jpg",
-    "uri": "intercom",
-    "description": ""
+    "uri": "intercom"
   },
   {
     "category": "live-chat",
     "link": "https://snapengage.com/",
     "name": "Snapengage",
     "image": "/snapengage.png",
-    "uri": "snapengage",
-    "description": ""
+    "uri": "snapengage"
   },
   {
     "category": "live-chat",
     "link": "https://www.olark.com/",
     "name": "Olark",
     "image": "/olark.jpg",
-    "uri": "olark",
-    "description": ""
+    "uri": "olark"
   },
   {
     "category": "live-chat",
     "link": "http://www.liveperson.com/",
     "name": "Liveperson",
     "image": "/liveperson.jpg",
-    "uri": "liveperson",
-    "description": ""
+    "uri": "liveperson"
   },
   {
     "category": "live-chat",
     "link": "https://www.livechatinc.com/",
     "name": "Livechatinc",
     "image": "/livechatinc.jpg",
-    "uri": "livechatinc",
-    "description": ""
+    "uri": "livechatinc"
   },
   {
     "category": "live-chat",
     "link": "https://www.comm100.com/livechat/",
     "name": "Comm100",
     "image": "/comm100.png",
-    "uri": "comm100",
-    "description": ""
+    "uri": "comm100"
   },
   {
     "category": "presentations",
     "link": "https://www.zoho.com/docs/show.html",
     "name": "Zoho Docs",
     "image": "/zoho-docs.jpg",
-    "uri": "zoho-docs",
-    "description": ""
+    "uri": "zoho-docs"
   },
   {
     "category": "presentations",
     "link": "https://www.visme.co/",
     "name": "Visme",
     "image": "/visme.jpg",
-    "uri": "visme",
-    "description": ""
+    "uri": "visme"
   },
   {
     "category": "presentations",
     "link": "http://www.knovio.com/",
     "name": "Knovio",
     "image": "/knovio.jpg",
-    "uri": "knovio",
-    "description": ""
+    "uri": "knovio"
   },
   {
     "category": "presentations",
     "link": "https://slides.com/",
     "name": "Slides",
     "image": "/slides.png",
-    "uri": "slides",
-    "description": ""
+    "uri": "slides"
   },
   {
     "category": "presentations",
     "link": "https://www.haikudeck.com/",
     "name": "Haikudeck",
     "image": "/haikudeck.png",
-    "uri": "haikudeck",
-    "description": ""
+    "uri": "haikudeck"
   },
   {
     "category": "presentations",
     "link": "https://piktochart.com/",
     "name": "Piktochart",
     "image": "/piktochart.jpg",
-    "uri": "piktochart",
-    "description": ""
+    "uri": "piktochart"
   },
   {
     "category": "presentations",
     "link": "http://glisser.com/",
     "name": "Glisser",
     "image": "/glisser.jpg",
-    "uri": "glisser",
-    "description": ""
+    "uri": "glisser"
   },
   {
     "category": "story-mapping",
     "link": "http://storiesonboard.com/",
     "name": "StoriesOnBoard",
     "image": "/storiesonboard.jpg",
-    "uri": "storiesonboard",
-    "description": ""
+    "uri": "storiesonboard"
   },
   {
     "category": "story-mapping",
     "link": "https://www.featuremap.co/en",
     "name": "FeatureMap",
     "image": "/featuremap.png",
-    "uri": "featuremap",
-    "description": ""
+    "uri": "featuremap"
   },
   {
     "category": "story-mapping",
     "link": "https://realtimeboard.com/examples/user-story-map/",
     "name": "RealtimeBoard",
     "image": "/realtimeboard.jpg",
-    "uri": "realtimeboard",
-    "description": ""
+    "uri": "realtimeboard"
   },
   {
     "category": "story-mapping",
     "link": "https://cardboardit.com/",
     "name": "Cardboardit",
     "image": "/cardboardit.jpg",
-    "uri": "cardboardit",
-    "description": ""
+    "uri": "cardboardit"
   },
   {
     "category": "story-mapping",
     "link": "http://trello.com",
     "name": "Trello",
     "image": "/trello.jpg",
-    "uri": "trello",
-    "description": ""
+    "uri": "trello"
   },
   {
     "category": "storyboard",
     "link": "https://theplot.io/",
     "name": "Plot",
     "image": "/plot.png",
-    "uri": "plot",
-    "description": ""
+    "uri": "plot"
   },
   {
     "category": "storyboard",
     "link": "http://www.storyboardthat.com/",
     "name": "Storyboard That",
     "image": "/storyboard-that.png",
-    "uri": "storyboard-that",
-    "description": ""
+    "uri": "storyboard-that"
   },
   {
     "category": "storyboard",
     "link": "https://boords.com/",
     "name": "Boords",
     "image": "/boords.jpg",
-    "uri": "boords",
-    "description": ""
+    "uri": "boords"
   },
   {
     "category": "storyboard",
     "link": "https://www.canva.com/create/storyboards/",
     "name": "Canva",
     "image": "/canva.jpg",
-    "uri": "canva",
-    "description": ""
+    "uri": "canva"
   },
   {
     "category": "storyboard",
     "link": "https://wonderunit.com/storyboarder/",
     "name": "Storyboarder",
     "image": "",
-    "uri": "storyboarder",
-    "description": ""
+    "uri": "storyboarder"
   },
   {
     "category": "design-guide-patterns",
     "link": "http://www.goodui.org/",
     "name": "GoodUI",
     "image": "/goodui.jpg",
-    "uri": "goodui",
-    "description": ""
+    "uri": "goodui"
   },
   {
     "category": "design-guide-patterns",
     "link": "http://patternry.com/",
     "name": "Patternry",
     "image": "/patternry.png",
-    "uri": "patternry",
-    "description": ""
+    "uri": "patternry"
   },
   {
     "category": "design-guide-patterns",
     "link": "https://frontify.com/",
     "name": "Frontify",
     "image": "/frontify.png",
-    "uri": "frontify",
-    "description": ""
+    "uri": "frontify"
   },
   {
     "category": "design-guide-patterns",
     "link": "http://pttrns.com/",
     "name": "Pttrns",
     "image": "/pttrns.jpg",
-    "uri": "pttrns",
-    "description": ""
+    "uri": "pttrns"
   },
   {
     "category": "design-guide-patterns",
     "link": "http://uxarchive.com/",
     "name": "UX Archive",
     "image": "/ux-archive.png",
-    "uri": "ux-archive",
-    "description": ""
+    "uri": "ux-archive"
   },
   {
     "category": "design-guide-patterns",
     "link": "http://littlebigdetails.com/",
     "name": "Little Big Details",
     "image": "/little-big-details.png",
-    "uri": "little-big-details",
-    "description": ""
+    "uri": "little-big-details"
   },
   {
     "category": "media-graphic",
     "link": "https://coolors.co/",
     "name": "Coolors",
     "image": "/coolors.svg",
-    "uri": "coolors",
-    "description": ""
+    "uri": "coolors"
   },
   {
     "category": "media-graphic",
     "link": "http://unsplash.com",
     "name": "Unsplash",
     "image": "/unsplash.jpeg",
-    "uri": "unsplash",
-    "description": ""
+    "uri": "unsplash"
   },
   {
     "category": "media-graphic",
     "link": "http://dissolve.com/",
     "name": "Dissolve",
     "image": "/dissolve.png",
-    "uri": "dissolve",
-    "description": ""
+    "uri": "dissolve"
   },
   {
     "category": "media-graphic",
     "link": "https://www.materialpalette.com/",
     "name": "Materialpalette",
     "image": "",
-    "uri": "materialpalette",
-    "description": ""
+    "uri": "materialpalette"
   },
   {
     "category": "media-graphic",
     "link": "http://www.colorhunter.com/",
     "name": "Colorhunter",
     "image": "",
-    "uri": "colorhunter",
-    "description": ""
+    "uri": "colorhunter"
   },
   {
     "category": "media-graphic",
     "link": "https://brandcolors.net/",
     "name": "Brandcolors",
     "image": "/brandcolors.jpg",
-    "uri": "brandcolors",
-    "description": ""
+    "uri": "brandcolors"
   },
   {
     "category": "media-graphic",
     "link": "https://mariodelvalle.github.io/CaptainIconWeb/",
     "name": "Captain Icon",
     "image": "/captain-icon.svg",
-    "uri": "captain-icon",
-    "description": ""
+    "uri": "captain-icon"
   },
   {
     "category": "typography",
     "link": "https://www.fontspring.com/",
     "name": "Fontspring",
     "image": "/fontspring.jpg",
-    "uri": "fontspring",
-    "description": ""
+    "uri": "fontspring"
   },
   {
     "category": "typography",
     "link": "https://fonts.google.com/",
     "name": "Google Fonts",
     "image": "/google-fonts.jpg",
-    "uri": "google-fonts",
-    "description": ""
+    "uri": "google-fonts"
   },
   {
     "category": "typography",
     "link": "https://typekit.com/",
     "name": "Typekit",
     "image": "/typekit.jpg",
-    "uri": "typekit",
-    "description": ""
+    "uri": "typekit"
   },
   {
     "category": "typography",
     "link": "http://www.myfonts.com/",
     "name": "MyFonts",
     "image": "/myfonts.jpg",
-    "uri": "myfonts",
-    "description": ""
+    "uri": "myfonts"
   },
   {
     "category": "typography",
     "link": "https://www.fontshop.com/",
     "name": "FontShop",
     "image": "/fontshop.png",
-    "uri": "fontshop",
-    "description": ""
+    "uri": "fontshop"
   },
   {
     "category": "typography",
     "link": "https://www.fontsquirrel.com/",
     "name": "Fontsquirrel",
     "image": "/fontsquirrel.png",
-    "uri": "fontsquirrel",
-    "description": ""
+    "uri": "fontsquirrel"
   },
   {
     "category": "typography",
     "link": "http://www.dafont.com/",
     "name": "Dafont",
     "image": "/dafont.png",
-    "uri": "dafont",
-    "description": ""
+    "uri": "dafont"
   },
   {
     "category": "screen-grabbing",
     "link": "http://browsershots.org/",
     "name": "Browsershots",
     "image": "/browsershots.png",
-    "uri": "browsershots",
-    "description": ""
+    "uri": "browsershots"
   },
   {
     "category": "screen-grabbing",
     "link": "https://www.techsmith.com/screen-capture.html",
     "name": "Snagit",
     "image": "/snagit.svg",
-    "uri": "snagit",
-    "description": ""
+    "uri": "snagit"
   },
   {
     "category": "screen-grabbing",
     "link": "https://app.prntscr.com/en/index.html",
     "name": "Lightshot",
     "image": "/lightshot.png",
-    "uri": "lightshot",
-    "description": ""
+    "uri": "lightshot"
   },
   {
     "category": "screen-grabbing",
     "link": "http://getgreenshot.org/",
     "name": "Greenshot",
     "image": "/greenshot.png",
-    "uri": "greenshot",
-    "description": ""
+    "uri": "greenshot"
   },
   {
     "category": "screen-grabbing",
     "link": "https://snag.gy/",
     "name": "Snaggy",
     "image": "",
-    "uri": "snaggy",
-    "description": ""
+    "uri": "snaggy"
   },
   {
     "category": "screen-grabbing",
     "link": "http://www.cockos.com/licecap/",
     "name": "LICEcap",
     "image": "/licecap.png?1385326366",
-    "uri": "licecap",
-    "description": ""
+    "uri": "licecap"
   },
   {
     "category": "landing-page",
     "link": "https://instapage.com/",
     "name": "Instapage",
     "image": "/instapage.jpg",
-    "uri": "instapage",
-    "description": ""
+    "uri": "instapage"
   },
   {
     "category": "landing-page",
     "link": "http://www.leadpages.net/",
     "name": "Leadpages",
     "image": "/leadpages.jpg",
-    "uri": "leadpages",
-    "description": ""
+    "uri": "leadpages"
   },
   {
     "category": "landing-page",
     "link": "http://fivesecondtest.com/",
     "name": "Fivesecondtest",
     "image": "/fivesecondtest.jpg",
-    "uri": "fivesecondtest",
-    "description": ""
+    "uri": "fivesecondtest"
   },
   {
     "category": "landing-page",
     "link": "https://www.launchrock.com",
     "name": "Launchrock",
     "image": "",
-    "uri": "launchrock",
-    "description": ""
+    "uri": "launchrock"
   },
   {
     "category": "landing-page",
     "link": "http://www.clickthroo.com/",
     "name": "Clickthroo",
     "image": "/clickthroo.png",
-    "uri": "clickthroo",
-    "description": ""
+    "uri": "clickthroo"
   },
   {
     "category": "landing-page",
     "link": "https://landingi.com/",
     "name": "Landingi",
     "image": "/landingi.jpg",
-    "uri": "landingi",
-    "description": ""
+    "uri": "landingi"
   },
   {
     "category": "landing-page",
     "link": "http://unbounce.com/",
     "name": "Unbounce",
     "image": "/unbounce.png",
-    "uri": "unbounce",
-    "description": ""
+    "uri": "unbounce"
   },
   {
     "category": "landing-page",
     "link": "https://vwo.com/landing-page-analyzer/",
     "name": "Vwo/landing-page-analyzer",
     "image": "/vwo-landing-page-analyzer.png",
-    "uri": "vwo-landing-page-analyzer",
-    "description": ""
+    "uri": "vwo-landing-page-analyzer"
   },
   {
     "category": "ab-split-testing",
     "link": "https://www.optimizely.com/resources/sample-size-calculator/",
     "name": "Sample Size Calculator - Optimizely",
     "image": "/sample-size-calculator-optimizely.jpg",
-    "uri": "sample-size-calculator-optimizely",
-    "description": ""
+    "uri": "sample-size-calculator-optimizely"
   },
   {
     "category": "ab-split-testing",
     "link": "https://www.optimizely.com/",
     "name": "Optimizely",
     "image": "/optimizely.jpg",
-    "uri": "optimizely",
-    "description": ""
+    "uri": "optimizely"
   },
   {
     "category": "ab-split-testing",
     "link": "https://www.convert.com/",
     "name": "Convert",
     "image": "/convert.png",
-    "uri": "convert",
-    "description": ""
+    "uri": "convert"
   },
   {
     "category": "ab-split-testing",
     "link": "https://www.abtasty.com/uk/",
     "name": "AB Tasty",
     "image": "/ab-tasty.png",
-    "uri": "ab-tasty",
-    "description": ""
+    "uri": "ab-tasty"
   },
   {
     "category": "ab-split-testing",
     "link": "http://www.eyequant.com/",
     "name": "Eyequant",
     "image": "/eyequant.png",
-    "uri": "eyequant",
-    "description": ""
+    "uri": "eyequant"
   },
   {
     "category": "ab-split-testing",
     "link": "https://vwo.com/",
     "name": "Vwo",
     "image": "/vwo.png",
-    "uri": "vwo",
-    "description": ""
+    "uri": "vwo"
   },
   {
     "category": "ab-split-testing",
     "link": "https://conductrics.com/",
     "name": "Conductrics",
     "image": "/conductrics.png",
-    "uri": "conductrics",
-    "description": ""
+    "uri": "conductrics"
   },
   {
     "category": "ab-split-testing",
     "link": "https://www.kissmetrics.com/growth-tools/ab-significance-test/",
     "name": "A/B Significance Tests - Kissmetrics",
     "image": "/a-b-significance-tests-kissmetrics.png",
-    "uri": "a-b-significance-tests-kissmetrics",
-    "description": ""
+    "uri": "a-b-significance-tests-kissmetrics"
   },
   {
     "category": "web-mobile-analytics",
     "link": "https://analytics.google.com",
     "name": "Google Analytics",
     "image": "/google-analytics.jpg",
-    "uri": "google-analytics",
-    "description": ""
+    "uri": "google-analytics"
   },
   {
     "category": "web-mobile-analytics",
     "link": "https://matomo.org/",
     "name": "Matomo",
     "image": "/matomo.jpg",
-    "uri": "matomo",
-    "description": ""
+    "uri": "matomo"
   },
   {
     "category": "web-mobile-analytics",
     "link": "http://www.luckyorange.com/",
     "name": "Luckyorange",
     "image": "/luckyorange.jpg",
-    "uri": "luckyorange",
-    "description": ""
+    "uri": "luckyorange"
   },
   {
     "category": "web-mobile-analytics",
     "link": "https://www.kissmetrics.com/",
     "name": "Kissmetrics",
     "image": "/kissmetrics.png",
-    "uri": "kissmetrics",
-    "description": ""
+    "uri": "kissmetrics"
   },
   {
     "category": "web-mobile-analytics",
     "link": "https://www.woopra.com/",
     "name": "Woopra",
     "image": "/woopra.png",
-    "uri": "woopra",
-    "description": ""
+    "uri": "woopra"
   },
   {
     "category": "web-mobile-analytics",
     "link": "https://heapanalytics.com/",
     "name": "Heapanalytics",
     "image": "",
-    "uri": "heapanalytics",
-    "description": ""
+    "uri": "heapanalytics"
   },
   {
     "category": "web-mobile-analytics",
     "link": "https://www.appsee.com/",
     "name": "Appsee",
     "image": "/appsee.jpg",
-    "uri": "appsee",
-    "description": ""
+    "uri": "appsee"
   },
   {
     "category": "web-mobile-analytics",
     "link": "https://t.co/RkNW8bdS9H",
     "name": "FreshMarketer",
     "image": "/freshmarketer.jpg",
-    "uri": "freshmarketer",
-    "description": ""
+    "uri": "freshmarketer"
   },
   {
     "category": "web-performance-optimization",
     "link": "https://developers.google.com/web/tools/lighthouse/",
     "name": "Google Lighthouse",
     "image": "/google-lighthouse.png",
-    "uri": "google-lighthouse",
-    "description": ""
+    "uri": "google-lighthouse"
   },
   {
     "category": "web-performance-optimization",
     "link": "https://gtmetrix.com/",
     "name": "Gtmetrix",
     "image": "/gtmetrix.jpg",
-    "uri": "gtmetrix",
-    "description": ""
+    "uri": "gtmetrix"
   },
   {
     "category": "web-performance-optimization",
     "link": "https://www.pingdom.com/",
     "name": "Pingdom",
     "image": "/pingdom.jpg",
-    "uri": "pingdom",
-    "description": ""
+    "uri": "pingdom"
   },
   {
     "category": "web-performance-optimization",
     "link": "http://yslow.org/",
     "name": "Yslow",
     "image": "/yslow.png",
-    "uri": "yslow",
-    "description": ""
+    "uri": "yslow"
   },
   {
     "category": "web-performance-optimization",
     "link": "http://yellowlab.tools/",
     "name": "YellowLab Tools",
     "image": "/yellowlab-tools.png?raw=true",
-    "uri": "yellowlab-tools",
-    "description": ""
+    "uri": "yellowlab-tools"
   },
   {
     "category": "web-performance-optimization",
     "link": "http://www.webpagetest.org/",
     "name": "WebPagetest",
     "image": "/webpagetest.png",
-    "uri": "webpagetest",
-    "description": ""
+    "uri": "webpagetest"
   },
   {
     "category": "web-performance-optimization",
     "link": "http://pagelocity.com/",
     "name": "Pagelocity",
     "image": "/pagelocity.png",
-    "uri": "pagelocity",
-    "description": ""
+    "uri": "pagelocity"
   },
   {
     "category": "web-performance-optimization",
     "link": "https://varvy.com/pagespeed/",
     "name": "Varvy Pagespeed",
     "image": "/varvy-pagespeed.png",
-    "uri": "varvy-pagespeed",
-    "description": ""
+    "uri": "varvy-pagespeed"
   },
   {
     "category": "accessibility",
     "link": "http://colorsafe.co/",
     "name": "Color Safe",
     "image": "/color-safe.png",
-    "uri": "color-safe",
-    "description": ""
+    "uri": "color-safe"
   },
   {
     "category": "accessibility",
     "link": "http://halogensoftworks.com/shade/",
     "name": "Shade",
     "image": "",
-    "uri": "shade",
-    "description": ""
+    "uri": "shade"
   },
   {
     "category": "accessibility",
     "link": "http://squizlabs.github.io/HTML_CodeSniffer/",
     "name": "HTML CodeSniffer",
     "image": "/html-codesniffer.png",
-    "uri": "html-codesniffer",
-    "description": ""
+    "uri": "html-codesniffer"
   },
   {
     "category": "accessibility",
     "link": "https://www.totalvalidator.com/",
     "name": "TotalValidator",
     "image": "/totalvalidator.gif",
-    "uri": "totalvalidator",
-    "description": ""
+    "uri": "totalvalidator"
   },
   {
     "category": "accessibility",
     "link": "https://validator.w3.org/unicorn/",
     "name": "W3C Validator",
     "image": "/w3c-validator.png",
-    "uri": "w3c-validator",
-    "description": ""
+    "uri": "w3c-validator"
   },
   {
     "category": "accessibility",
     "link": "https://www.deque.com/axe/",
     "name": "aXe",
     "image": "/axe.png",
-    "uri": "axe",
-    "description": ""
+    "uri": "axe"
   },
   {
     "category": "accessibility",
     "link": "http://wave.webaim.org/",
     "name": "Wave",
     "image": "/wave.png",
-    "uri": "wave",
-    "description": ""
+    "uri": "wave"
   },
   {
     "category": "accessibility",
     "link": "https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll",
     "name": "Revenge.css",
     "image": "",
-    "uri": "revenge-css",
-    "description": ""
+    "uri": "revenge-css"
   },
   {
     "category": "ux-suite",
     "link": "http://userzoom.com",
     "name": "UserZoom",
     "image": "/userzoom.png",
-    "uri": "userzoom",
-    "description": ""
+    "uri": "userzoom"
   },
   {
     "category": "ux-suite",
     "link": "http://www.mousestats.com/",
     "name": "MouseStats",
     "image": "/mousestats.png",
-    "uri": "mousestats",
-    "description": ""
+    "uri": "mousestats"
   },
   {
     "category": "ux-suite",
     "link": "https://www.hotjar.com",
     "name": "Hotjar",
     "image": "/hotjar.jpg",
-    "uri": "hotjar",
-    "description": ""
+    "uri": "hotjar"
   },
   {
     "category": "ux-suite",
     "link": "https://www.caravel.design/",
     "name": "Caravel",
     "image": "/caravel.jpg",
-    "uri": "caravel",
-    "description": ""
+    "uri": "caravel"
   },
   {
     "category": "notetaking",
     "link": "http://www.usefulfruit.com/pearnote/",
     "name": "Peranote",
     "image": "/peranote.png",
-    "uri": "peranote",
-    "description": ""
+    "uri": "peranote"
   },
   {
     "category": "notetaking",
     "link": "https://evernote.com/",
     "name": "Evernote",
     "image": "/evernote.jpg",
-    "uri": "evernote",
-    "description": ""
+    "uri": "evernote"
   },
   {
     "category": "notetaking",
     "link": "https://www.diigo.com/",
     "name": "Diigo",
     "image": "/diigo.jpg",
-    "uri": "diigo",
-    "description": ""
+    "uri": "diigo"
   },
   {
     "category": "notetaking",
     "link": "https://quip.com/",
     "name": "Quip",
     "image": "/quip.jpg",
-    "uri": "quip",
-    "description": ""
+    "uri": "quip"
   },
   {
     "category": "notetaking",
     "link": "https://litewrite.net/",
     "name": "Litewrite",
     "image": "",
-    "uri": "litewrite",
-    "description": ""
+    "uri": "litewrite"
   },
   {
     "category": "notetaking",
     "link": "https://simplenote.com/",
     "name": "Simplenote",
     "image": "/simplenote.png",
-    "uri": "simplenote",
-    "description": ""
+    "uri": "simplenote"
   },
   {
     "category": "notetaking",
     "link": "https://www.google.com/keep/",
     "name": "Google Keep",
     "image": "/google-keep.png",
-    "uri": "google-keep",
-    "description": ""
+    "uri": "google-keep"
   },
   {
     "category": "notetaking",
     "link": "https://paper.dropbox.com/welcome",
     "name": "Dropbox Paper",
     "image": "/dropbox-paper.jpg",
-    "uri": "dropbox-paper",
-    "description": ""
+    "uri": "dropbox-paper"
   },
   {
     "category": "project-management",
     "link": "https://www.meistertask.com/",
     "name": "Meistertask",
     "image": "/meistertask.jpg",
-    "uri": "meistertask",
-    "description": ""
+    "uri": "meistertask"
   },
   {
     "category": "project-management",
     "link": "http://taiga.io",
     "name": "Taiga",
     "image": "/taiga.png",
-    "uri": "taiga",
-    "description": ""
+    "uri": "taiga"
   },
   {
     "category": "project-management",
     "link": "https://asana.com/",
     "name": "Asana",
     "image": "/asana.jpg",
-    "uri": "asana",
-    "description": ""
+    "uri": "asana"
   },
   {
     "category": "project-management",
     "link": "https://www.wrike.com/",
     "name": "Wrike",
     "image": "/wrike.jpg",
-    "uri": "wrike",
-    "description": ""
+    "uri": "wrike"
   },
   {
     "category": "project-management",
     "link": "https://www.upwave.io/",
     "name": "Upwave",
     "image": "/upwave.jpg",
-    "uri": "upwave",
-    "description": ""
+    "uri": "upwave"
   },
   {
     "category": "project-management",
     "link": "http://basecamp.com",
     "name": "Basecamp",
     "image": "/basecamp.png",
-    "uri": "basecamp",
-    "description": ""
+    "uri": "basecamp"
   },
   {
     "category": "project-management",
     "link": "https://www.teamwork.com/project-management-software",
     "name": "Teamwork",
     "image": "/teamwork.jpg",
-    "uri": "teamwork",
-    "description": ""
+    "uri": "teamwork"
   },
   {
     "category": "project-management",
     "link": "https://kanbanize.com/",
     "name": "Kanbanize",
     "image": "/kanbanize.png",
-    "uri": "kanbanize",
-    "description": ""
+    "uri": "kanbanize"
   },
   {
     "category": "jobs",
     "link": "http://www.uxswitch.com/",
     "name": "UX Switch",
     "image": "/ux-switch.png",
-    "uri": "ux-switch",
-    "description": ""
+    "uri": "ux-switch"
   },
   {
     "category": "jobs",
     "link": "http://www.justuxjobs.com/",
     "name": "Just UX Jobs",
     "image": "/just-ux-jobs.png",
-    "uri": "just-ux-jobs",
-    "description": ""
+    "uri": "just-ux-jobs"
   },
   {
     "category": "jobs",
     "link": "https://www.uxjobsboard.com/",
     "name": "UX Jobs Board",
     "image": "/ux-jobs-board.jpg",
-    "uri": "ux-jobs-board",
-    "description": ""
+    "uri": "ux-jobs-board"
   },
   {
     "category": "jobs",
     "link": "http://uxdesignjobs.com/",
     "name": "UX Design Jobs",
     "image": "/ux-design-jobs.jpg",
-    "uri": "ux-design-jobs",
-    "description": ""
+    "uri": "ux-design-jobs"
   },
   {
     "category": "jobs",
     "link": "https://www.uxjobs.io/",
     "name": "UX Jobs",
     "image": "/ux-jobs.jpg",
-    "uri": "ux-jobs",
-    "description": ""
+    "uri": "ux-jobs"
   },
   {
     "category": "jobs",
     "link": "https://weworkremotely.com/",
     "name": "We Work Remotely",
     "image": "/we-work-remotely.jpeg",
-    "uri": "we-work-remotely",
-    "description": ""
+    "uri": "we-work-remotely"
   },
   {
     "category": "jobs",
     "link": "https://stackoverflow.com/jobs/developer-jobs-using-ux",
     "name": "UX Jobs - Stack Overflow",
     "image": "/ux-jobs-stack-overflow.png",
-    "uri": "ux-jobs-stack-overflow",
-    "description": ""
+    "uri": "ux-jobs-stack-overflow"
   },
   {
     "category": "jobs",
     "link": "https://dribbble.com/jobs",
     "name": "Jobs - Dribble",
     "image": "/jobs-dribble.png",
-    "uri": "jobs-dribble",
-    "description": ""
+    "uri": "jobs-dribble"
   }
 ]
 }

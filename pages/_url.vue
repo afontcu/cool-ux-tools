@@ -5,7 +5,11 @@
     <div class="Resources-grid">
       <Resource v-for="resource in filteredResources"
                 :key="resource.uri"
-                v-bind="resource" />
+                :category="resource.category"
+                :link="resource.link"
+                :name="resource.name"
+                :image="resource.image"
+      />
     </div>
   </div>
 </template>

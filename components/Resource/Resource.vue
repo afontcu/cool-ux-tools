@@ -19,6 +19,7 @@
 
 <script>
 import FancyLink from '@/components/FancyLink'
+import descriptions from '~/data/descr.json'
 
 export default {
   name: 'Resource',
@@ -30,11 +31,16 @@ export default {
     link: { required: true, type: String },
     name: { required: true, type: String },
     image: { required: true, type: String },
-    uri: { required: true, type: String },
-    description: { required: true, type: String },
   },
   data () {
-    return {}
+    return {
+      descriptions,
+    }
+  },
+  computed: {
+    description () {
+      return this.descriptions.find(d => d.link === this.link).description
+    },
   },
 }
 </script>
