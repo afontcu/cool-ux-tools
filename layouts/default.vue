@@ -6,18 +6,16 @@
           <img src="~assets/logo.png" alt="UX Stack" width="200" class="u-margin-bottom">
         </nuxt-link>
         <div class="u-text-h5">
-          UX Stack is a curated list of the best UX tools to research, design and manage your UX projects.
+          UX Stack is a curated list of resources and tools for developers, UX researchers, designers and project managers.
         </div>
       </div>
     </header>
     <nuxt class="o-wrapper u-margin-bottom-huge" />
     <footer class="Layout__footer u-padding">
       <div class="o-wrapper u-flex">
-        Made with 💚 by <FancyLink href="https://twitter.com/afontcu_" title="Twitter">@afontcu_</FancyLink>
-        <span class="u-padding-horizontal-tiny">·</span>
-        <FancyLink href="https://github.com/afontcu/uxstack" title="Github">Github</FancyLink>
+        Made with 💚 by&nbsp;<FancyLink href="https://twitter.com/afontcu_" title="Twitter">@afontcu_</FancyLink>
         <div class="u-margin-left-auto">
-          UX Stack is forever free and updated in a regular basis. Stay tuned!
+          You can report bugs on <FancyLink href="https://github.com/afontcu/uxstack" title="Github">Github &rarr;</FancyLink>
         </div>
       </div>
     </footer>
@@ -64,6 +62,7 @@ html, body {
 }
 
 .Layout__footer {
+  color: #444;
   background-color: #f1f1f2;
 }
 </style>
