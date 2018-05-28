@@ -20,6 +20,8 @@ export default {
 <style lang="scss">
 .FancyLink {
   position: relative;
+
+  color: map-get($global-colors, 'branding-primary');
   transition: color $global-transition ease;
 
   &:hover {
