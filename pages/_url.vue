@@ -45,8 +45,14 @@ export default {
 <style lang="scss">
 .Resources-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 1fr;
+  grid-template-columns: 1fr;
   grid-gap: $global-spacing-unit;
+}
+
+@media (min-width: 1000px) {
+  .Resources-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: 1fr;
+  }
 }
 </style>
