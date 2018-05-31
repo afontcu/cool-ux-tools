@@ -548,13 +548,6 @@
   },
   {
     "category": "wireframing",
-    "link": "https://mockflow.com/",
-    "name": "Mockflow",
-    "image": "/mockflow.png",
-    "uri": "mockflow"
-  },
-  {
-    "category": "wireframing",
     "link": "https://pidoco.com/en",
     "name": "Pidoco",
     "image": "/pidoco.png",
@@ -1350,6 +1343,13 @@
     "name": "Revenge.css",
     "image": "",
     "uri": "revenge-css"
+  },
+  {
+    "category": "ux-suite",
+    "link": "https://mockflow.com/",
+    "name": "Mockflow",
+    "image": "/mockflow.png",
+    "uri": "mockflow"
   },
   {
     "category": "ux-suite",
