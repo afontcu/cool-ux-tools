@@ -4,10 +4,10 @@
       <img :src="`/logos${image}`" :alt="name" width="150" class="Resource__image-tag">
     </FancyLink>
     <div class="o-media__body u-flex u-flex-column">
-      <h3 class="Resource__title u-text-h4 u-text-uppercase u-text-light">
+      <h3 class="Resource__title u-text-special-font u-text-h2 u-text-uppercase">
         {{ name }}
       </h3>
-      <span class="u-flex-default">
+      <span class="u-flex-default u-margin-bottom-small">
         {{ description }}
       </span>
       <FancyLink :href="link" :title="name" class="Resource__link">

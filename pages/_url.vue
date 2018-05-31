@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <h1>{{ category.name }}</h1>
-    <h2 class="u-margin-bottom u-text-h3">{{ category.description }} </h2>
-    <div class="Resources-grid">
+  <div class="Category">
+    <h1 class="Category__title u-margin-top-large u-text-center u-text-special-font">{{ category.name }} tools</h1>
+    <h2 class="u-margin-bottom-huge u-text-center u-text-h3">{{ category.description }}</h2>
+    <div class="Category__resources-list">
       <Resource v-for="resource in filteredResources"
                 :key="resource.uri"
                 :category="resource.category"
@@ -43,16 +43,20 @@ export default {
 </script>
 
 <style lang="scss">
-.Resources-grid {
+.Category__resources-list {
   display: grid;
   grid-template-columns: 1fr;
-  grid-gap: $global-spacing-unit;
+  grid-gap: $global-spacing-unit-large;
 }
 
 @media (min-width: 1000px) {
-  .Resources-grid {
+  .Category__resources-list {
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 1fr;
   }
+}
+
+.Category__title {
+  font-size: 3rem;
 }
 </style>
