@@ -2,8 +2,8 @@
 @import "~normandy-css/scss/2-Tools/main";
 
 
-$branding-primary: hsl(150, 50%, 51%);
-$branding-primary-muted: hsl(150, 50%, 92%);
+$color-branding-primary: hsl(150, 50%, 51%);
+$color-branding-primary-muted: hsl(150, 50%, 80%);
 
-$global-colors: map-add($global-colors, "branding-primary", $branding-primary);
-$global-colors: map-add($global-colors, "branding-primary-muted", $branding-primary-muted);
+$global-colors: map-add($global-colors, "branding-primary", $color-branding-primary);
+$global-colors: map-add($global-colors, "branding-primary-muted", $color-branding-primary-muted);

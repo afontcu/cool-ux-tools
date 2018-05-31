@@ -1,4 +1,4 @@
-# uxstack
+# Cool UX Tools
 
 > Nuxt.js project
 
