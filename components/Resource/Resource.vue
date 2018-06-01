@@ -7,7 +7,7 @@
       <h3 class="Resource__title u-text-special-font u-text-h2 u-text-uppercase">
         {{ name }}
       </h3>
-      <span class="u-flex-default u-margin-bottom-small">
+      <span v-if="description" class="u-flex-default u-margin-bottom-small">
         {{ description }}
       </span>
       <FancyLink :href="link" :title="name" class="Resource__link" target="_blank">
@@ -42,7 +42,7 @@ export default {
       return this.descriptions.find(d => d.link === this.link).description
     },
     imageSrc () {
-      return require(`~/assets/logos${this.image}`)
+      return `/logos${this.image}`
     },
   },
 }

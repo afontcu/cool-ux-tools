@@ -12,7 +12,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Nuxt.js project' },
+      { hid: 'description', name: 'description', content: 'A curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -22,7 +22,7 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
-  loading: { color: '#3B8070' },
+  loading: { color: '#4aa21f' },
   /*
   ** Build configuration
   */
@@ -40,5 +40,40 @@ module.exports = {
         })
       }
     },
+  },
+  /*
+  ** Generate configuration
+  */
+  generate: {
+    routes: [
+      '/user-recruiting',
+      '/user-recording-heatmap',
+      '/user-feedback',
+      '/onsite-surveys',
+      '/surveys',
+      '/user-journey',
+      '/personas',
+      '/card-sorting',
+      '/mindmapping-brainstorming',
+      '/wireframing',
+      '/mocking-prototyping',
+      '/high-fidelity-prototyping',
+      '/livechat',
+      '/presentations',
+      '/storymapping',
+      '/design-guide-patterns',
+      '/media-graphic-resources',
+      '/typography',
+      '/screen-grabbing',
+      '/landing-page',
+      '/ab-split-testing',
+      '/web-mobile-analytics',
+      '/web-performance-optimization',
+      '/accessibility',
+      '/ux-suite',
+      '/learning-training',
+      '/notetaking',
+      '/project-management',
+    ],
   },
 }

@@ -189,7 +189,7 @@
   },
   {
     "link": "http://userforge.com/",
-    "description": ""
+    "description": "UserForge lets you create realistic representations of your user groups in far less clicks than it would take using design software or word processors."
   },
   {
     "link": "http://www.makemypersona.com/",
@@ -252,6 +252,10 @@
     "description": ""
   },
   {
+    "link": "http://concept.ly/",
+    "description": ""
+  },
+  {
     "link": "https://www.irise.com/",
     "description": "iRise combines the best prototyping tool with inline requirements management software - create wireframes and diagrams too. Integrate with tools like JIRA & TFS."
   },
@@ -262,6 +266,10 @@
   {
     "link": "https://www.adobe.com/products/xd.html",
     "description": "Download Adobe XD CC free with the starter plan. XD is your UI/UX design solution for designing websites & mobile apps. Design, prototype, and share for free."
+  },
+  {
+    "link": "https://mockflow.com/",
+    "description": ""
   },
   {
     "link": "https://www.sketchapp.com/",
@@ -762,6 +770,10 @@
   {
     "link": "http://www.uxswitch.com/",
     "description": "UXswitch presents a jobs board and career blog in User Experience (UX), Visual Design, Interaction Design, User Research and more"
+  },
+  {
+    "link": "http://www.uxsort.net/",
+    "description": ""
   },
   {
     "link": "http://www.justuxjobs.com/",
