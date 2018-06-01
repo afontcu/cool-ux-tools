@@ -11,11 +11,6 @@
       "description": "These cool resources will help you record your users and learn from the way they interact with your product. Prepare to have your mind blown."
     },
     {
-      "url": "user-feedback",
-      "name": "User Feedback",
-      "description": "These cool resources will help you gather your users' opinion on your product, so your boss can decline data-based decisions."
-    },
-    {
       "url": "onsite-surveys",
       "name": "Onsite surveys",
       "description": "These cool resources will help you survey your current visitors to get feedback while they are struggling using your product."
@@ -108,7 +103,7 @@
     {
       "url": "ab-split-testing",
       "name": "A/B and Split Testing",
-      "description": "These cool resources will help you with making the most of your A/B tests so you can find the perfect button color."
+      "description": "These cool resources will help you with making the most of your A/B tests so your boss can turn down data-based decisions."
     },
     {
       "url": "web-mobile-analytics",
