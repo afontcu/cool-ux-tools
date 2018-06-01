@@ -1,22 +1,13 @@
-# Cool UX Tools
+# Cool UX Tools (WIP)
 
-> Nuxt.js project
+Cool UX Tools is a curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
 
-## Build Setup
+https://cool-ux-tools.firebaseapp.com/
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## Contributing 
 
-# build for production and launch server
-$ npm run build
-$ npm start
+Feel free to report issues or 🆒 ideas!
 
-# generate static project
-$ npm run generate
-```
+Made with 💚 by [@afontcu_](https://twitter.com/afontcu_).
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
