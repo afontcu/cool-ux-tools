@@ -1,8 +1,8 @@
 {
-  "name": "cooluxtools",
-  "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "Adrià Fontcuberta <adria@calidae.com>",
+  "name": "cool-ux-tools",
+  "version": "0.1.0",
+  "description": "Cool UX Tools is a curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.",
+  "author": "Adrià Fontcuberta <afontcu@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
