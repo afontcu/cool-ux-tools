@@ -18,7 +18,7 @@
     {
       "url": "surveys",
       "name": "Surveys",
-      "description": "Would you like to learn resources to create surveys? ☑️ Yes ☑️ Of course"
+      "description": "Would you like to discover new resources to create surveys? ☑️ Yes ☑️ Of course"
     },
     {
       "url": "user-journey",
@@ -26,7 +26,7 @@
       "description": "These cool resources will help you define and share your user journey."
     },
     {
-      "url": "personas",
+      "url": "user-personas",
       "name": "User personas",
       "description": "These cool resources will help you define your product personas. Give 'em cool names!"
     },
@@ -61,8 +61,8 @@
       "description": "These cool resources will allow you receive the always positive design feebdack. You know, make that logo bigger and so on."
     },
     {
-      "url": "livechat",
-      "name": "Livechat",
+      "url": "live-chat",
+      "name": "Live chat",
       "description": "These cool resources will help you interact with your users while they're using your product. Be nice and don't scare them."
     },
     {
@@ -71,8 +71,8 @@
       "description": "These cool resources will help you craft presentations to share your discoveries and get nervous speaking in public."
     },
     {
-      "url": "storymapping",
-      "name": "Storymapping",
+      "url": "story-mapping",
+      "name": "Story Mapping",
       "description": "These cool resources will help you craft your user story mapping."
     },
     {
@@ -81,8 +81,8 @@
       "description": "These cool resources will help you with define the UI design patterns of your product by getting inspired (hehe) by the best."
     },
     {
-      "url": "media-graphic-resources",
-      "name": "Media and Graphic Resources",
+      "url": "media-graphic",
+      "name": "Media and Graphic",
       "description": "These cool resources will help you add media content to your product design and prototypes."
     },
     {
@@ -124,11 +124,6 @@
       "url": "ux-suite",
       "name": "UX Suite",
       "description": "These cool resources will provide you with all the tools you need to learn from your users. A tool to rule them all."
-    },
-    {
-      "url": "learning-training",
-      "name": "Learning and Training",
-      "description": "These cool resources will help you learn and improve your UX skills. You know the build-learn-measure? So you should also learn. And measure...(?)"
     },
     {
       "url": "notetaking",
@@ -402,28 +397,28 @@
     "uri": "experiencefellow"
   },
   {
-    "category": "user-persona",
+    "category": "user-personas",
     "link": "https://xtensio.com/user-persona/",
     "name": "Xtensio User Persona Creator",
-    "image": "/xtensio-user-persona-creator.jpg",
-    "uri": "xtensio-user-persona-creator"
+    "image": "/xtensio-user-personas-creator.jpg",
+    "uri": "xtensio-user-personas-creator"
   },
   {
-    "category": "user-persona",
+    "category": "user-personas",
     "link": "http://userforge.com/",
     "name": "Userforge",
     "image": "/userforge.jpeg",
     "uri": "userforge"
   },
   {
-    "category": "user-persona",
+    "category": "user-personas",
     "link": "http://www.makemypersona.com/",
     "name": "Make My Persona - Hubspot",
     "image": "/make-my-persona-hubspot.png",
     "uri": "make-my-persona-hubspot"
   },
   {
-    "category": "user-persona",
+    "category": "user-personas",
     "link": "https://randomuser.me/",
     "name": "Random User Generator",
     "image": "/random-user-generator.png",
@@ -445,62 +440,62 @@
   },
   {
     "category": "card-sorting",
-    "link": "http://www.usabilitest.co/m/CardSorting",
+    "link": "http://www.usabilitest.com/CardSorting",
     "name": "Usabilitest CardSorting",
     "image": "/usabilitest-cardsorting.png",
     "uri": "usabilitest-cardsorting"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "https://stormboard.com/",
     "name": "Stormboard",
     "image": "/stormboard.png",
     "uri": "stormboard"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "https://www.groupmap.com/",
     "name": "Groupmap",
     "image": "/groupmap.png",
     "uri": "groupmap"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "http://app.mindmapmaker.org/#m:new",
     "name": "MindMap Maker",
     "image": "/mindmap-maker.jpg",
     "uri": "mindmap-maker"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "https://mural.co/",
     "name": "Mural",
     "image": "/mural.jpg",
     "uri": "mural"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "http://www.xmind.net/",
     "name": "Xmind",
     "image": "/xmind.jpg",
     "uri": "xmind"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "https://www.smartdraw.com/",
     "name": "Smartdraw",
     "image": "/smartdraw.png?bn=1510011130",
     "uri": "smartdraw"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "https://coggle.it/",
     "name": "Coggle",
     "image": "/coggle.png",
     "uri": "coggle"
   },
   {
-    "category": "mind-mapping-brainstorming",
+    "category": "mindmapping-brainstorming",
     "link": "https://www.blankcanvas.io/",
     "name": "Blank Canvas",
     "image": "/blank-canvas.png",
