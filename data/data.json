@@ -337,7 +337,7 @@
     "category": "surveys",
     "link": "https://esurv.org/",
     "name": "Esurv",
-    "image": "",
+    "image": "/esurv.png",
     "uri": "esurv"
   },
   {
@@ -379,7 +379,7 @@
     "category": "user-journey",
     "link": "https://custellence.com/",
     "name": "Custellence",
-    "image": "/custellence.svg",
+    "image": "/custellence.png",
     "uri": "custellence"
   },
   {
@@ -400,7 +400,7 @@
     "category": "user-personas",
     "link": "https://xtensio.com/user-persona/",
     "name": "Xtensio User Persona Creator",
-    "image": "/xtensio-user-personas-creator.jpg",
+    "image": "/xtensio.jpg",
     "uri": "xtensio-user-personas-creator"
   },
   {
