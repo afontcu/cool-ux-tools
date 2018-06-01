@@ -26,7 +26,7 @@
           Made with 💚 by&nbsp;<FancyLink target="_blank" href="https://twitter.com/afontcu_" title="Twitter">@afontcu_</FancyLink>
         </div>
         <div class="u-margin-left-auto">
-          Feel free to report issues or 🆒 ideas on <FancyLink target="_blank" href="https://github.com/afontcu/uxstack" title="Github">Github &rarr;</FancyLink>
+          Feel free to report issues or 🆒 ideas on <FancyLink target="_blank" href="https://github.com/afontcu/cool-ux-tools" title="Github">Github &rarr;</FancyLink>
         </div>
       </div>
     </footer>
