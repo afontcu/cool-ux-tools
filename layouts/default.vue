@@ -1,11 +1,13 @@
 <template>
   <div class="Layout Layout--default">
     <header class="Layout__header u-padding-bottom-large">
-      <nuxt-link to="/" class="Logo u-text-branding-primary u-flex u-flex-center u-text-light">
-        <span class="Logo__small u-text-special-font">cool</span>
-        <span class="u-text-hairline u-padding-horizontal-tiny">UX</span>
-        <span class="Logo__small u-text-special-font u-padding-top-large">tools</span>
-      </nuxt-link>
+      <div class="Logo u-text-branding-primary u-flex u-flex-center">
+        <nuxt-link to="/" class="u-flex u-padding-top-small">
+          <span class="Logo__text Logo__text--small u-text-special-font u-padding-top">cool</span>
+          <span class="Logo__text u-text-hairline u-padding-horizontal-tiny">UX</span>
+          <span class="Logo__text Logo__text--small u-text-special-font u-padding-top">tools</span>
+        </nuxt-link>
+      </div>
       <Triangles class="Layout__triangles u-padding-top-large">
         <svg class="Layout__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
           <polygon fill="white" points="0,76 21,100 33,60 45,100 50,75 55,100 72,70 85,100 95,62 100,80 100,100 0,100" />
@@ -89,14 +91,17 @@ html, body {
 .Logo {
   position: relative;
   z-index: 1;
-
-  color: white;
-  font-size: 5rem;
-  transform: rotate3d(0, 0, 1, -5deg);
 }
 
-.Logo__small {
+.Logo__text {
+  color: white;
+  font-size: 5rem;
+  transform: rotate3d(0, 0, 1, -1deg);
+}
+
+.Logo__text--small {
   font-size: 4rem;
+  transform: rotate3d(0, 0, 1, -4deg);
 }
 
 .Layout__triangles {
