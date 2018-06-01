@@ -1,6 +1,8 @@
 <template>
-  <div class="Resource u-padding-small o-media o-media--stretch">
-    <FancyLink :href="link" :title="name" class="Resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center u-padding-small" target="_blank">
+  <div :class="[ classes ]" class="Resource u-padding-small o-media o-media--top">
+    <FancyLink :href="link"
+               :title="name"
+               class="Resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center" target="_blank">
       <img :src="imageSrc" :alt="name" width="150" class="Resource__image-tag">
     </FancyLink>
     <div class="o-media__body u-flex u-flex-column">
@@ -44,12 +46,19 @@ export default {
     imageSrc () {
       return `/logos${this.image}`
     },
+    classes () {
+      const className = this.name.toLowerCase().replace(/[\W_]+/g, '')
+      return {
+        [`Resource--${className}`]: true,
+      }
+    },
   },
 }
 </script>
 
 <style lang="scss">
 .Resource__image-link {
-  background-color: #f1f1f2;
+  border-radius: $global-radius;
+  overflow: hidden;
 }
 </style>
