@@ -45,15 +45,8 @@ export default {
 <style lang="scss">
 .Category__resources-list {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
   grid-gap: $global-spacing-unit-large;
-}
-
-@media (min-width: 1000px) {
-  .Category__resources-list {
-    grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: 1fr;
-  }
 }
 
 .Category__title {
