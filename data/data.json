@@ -61,6 +61,11 @@
       "description": "These cool resources will help you create high fidelity prototypes for your product so your boss can't tell the difference with the real application."
     },
     {
+      "url": "design-feedback",
+      "name": "Design Feedback",
+      "description": "These cool resources will allow you receive the always positive design feebdack. You know, make that logo bigger and so on."
+    },
+    {
       "url": "livechat",
       "name": "Livechat",
       "description": "These cool resources will help you interact with your users while they're using your product. Be nice and don't scare them."
@@ -160,7 +165,7 @@
     "category": "user-recruiting",
     "link": "https://usabilityhub.com/",
     "name": "Usability HUB",
-    "image": "/usability-hub.jpg",
+    "image": "/usability-hub.png",
     "uri": "usability-hub"
   },
   {
@@ -188,7 +193,7 @@
     "category": "user-recruiting",
     "link": "https://dscout.com/",
     "name": "dscout",
-    "image": "/dscout.jpg",
+    "image": "/dscout.png",
     "uri": "dscout"
   },
   {
@@ -216,14 +221,14 @@
     "category": "user-recording-heatmap",
     "link": "https://lookback.io/",
     "name": "Lookback",
-    "image": "/lookback.jpg",
+    "image": "/lookback.png",
     "uri": "lookback"
   },
   {
     "category": "user-recording-heatmap",
     "link": "https://www.inspectlet.com/",
     "name": "Inspectlet",
-    "image": "",
+    "image": "/inspectlet.png",
     "uri": "inspectlet"
   },
   {
@@ -431,13 +436,6 @@
   },
   {
     "category": "card-sorting",
-    "link": "http://www.uxsort.net/",
-    "name": "UXSort",
-    "image": "",
-    "uri": "uxsort"
-  },
-  {
-    "category": "card-sorting",
     "link": "https://www.optimalworkshop.com/optimalsort",
     "name": "OptimalSort",
     "image": "",
@@ -452,7 +450,7 @@
   },
   {
     "category": "card-sorting",
-    "link": "http://www.usabilitest.com/CardSorting",
+    "link": "http://www.usabilitest.co/m/CardSorting",
     "name": "Usabilitest CardSorting",
     "image": "/usabilitest-cardsorting.png",
     "uri": "usabilitest-cardsorting"
@@ -1222,7 +1220,7 @@
   },
   {
     "category": "web-mobile-analytics",
-    "link": "https://t.co/RkNW8bdS9H",
+    "link": "https://www.freshworks.com/marketing-automation/conversion-rate-optimization/",
     "name": "FreshMarketer",
     "image": "/freshmarketer.jpg",
     "uri": "freshmarketer"
