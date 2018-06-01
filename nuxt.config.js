@@ -45,6 +45,7 @@ module.exports = {
   ** Generate configuration
   */
   generate: {
+    fallback: true,
     routes: [
       '/user-recruiting',
       '/user-recording-heatmap',

@@ -1,7 +1,9 @@
 <template>
   <div class="Category">
-    <h1 class="Category__title u-margin-top-large u-text-center u-text-special-font">{{ category.name }} cool tools</h1>
-    <h2 v-if="category.description" class="u-margin-bottom-huge u-text-center u-text-h3">{{ category.description }}</h2>
+    <div class="o-wrapper o-wrapper--large">
+      <h1 class="Category__title u-margin-top-large u-text-center u-text-special-font">{{ category.name }} cool tools</h1>
+      <h2 v-if="category.description" class="u-margin-bottom-huge u-text-center u-text-h3">{{ category.description }}</h2>
+    </div>
     <div class="Category__resources-list">
       <Resource v-for="resource in filteredResources"
                 :key="resource.uri"
@@ -16,24 +18,30 @@
 
 <script>
 import Resource from '@/components/Resource'
-import { resources, categories } from '~/data/data.json'
+import { resources } from '~/data/data.json'
 
 export default {
   components: {
     Resource,
   },
+  asyncData ({ route, error }) {
+    const { categories } = require('~/data/data.json')
+    const category = categories.find(c => c.url === route.params.url)
+
+    if (!category) {
+      error({ statusCode: 404, message: 'Resource not found' })
+    }
+
+    return { category }
+  },
   data () {
     return {
       resources,
-      categories,
     }
   },
   computed: {
     url () {
       return this.$route.params.url
-    },
-    category () {
-      return this.categories.find(c => c.url === this.url)
     },
     filteredResources () {
       return this.resources.filter(r => r.category === this.url)
