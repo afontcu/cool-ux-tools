@@ -1,10 +1,11 @@
 <template>
   <div :class="[ classes ]" class="Cool-resource u-padding-small o-media o-media--top">
-    <FancyLink :href="link"
-               :title="name"
-               class="Cool-resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center" target="_blank">
-      <img :src="imageSrc" :alt="name" width="150">
-    </FancyLink>
+    <a :href="link"
+       :title="name"
+       target="_blank"
+       class="Cool-resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center u-padding-bottom">
+      <img :src="imageSrc" :alt="name" width="150" class="Cool-resource__image">
+    </a>
     <div class="o-media__body u-flex u-flex-column">
       <h3 class="u-text-special-font u-text-h2 u-text-uppercase">
         {{ name }}
@@ -60,5 +61,13 @@ export default {
 .Resource__image-link {
   border-radius: $global-radius;
   overflow: hidden;
+}
+
+.Cool-resource__image {
+  transition: transform $global-transition ease;
+
+  &:hover {
+    transform: rotate3d(0, 0, 1, -2deg) scale(1.1);
+  }
 }
 </style>
