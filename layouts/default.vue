@@ -8,23 +8,23 @@
           <span class="Logo__text Logo__text--small u-text-special-font u-padding-top">tools</span>
         </nuxt-link>
       </div>
-      <Triangles class="Layout__triangles u-padding-top-large">
+      <triangles class="Layout__triangles u-padding-top-large">
         <svg class="Layout__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
           <polygon fill="white" points="0,76 21,100 33,60 45,100 50,75 55,100 72,70 85,100 95,62 100,80 100,100 0,100" />
         </svg>
-      </Triangles>
+      </triangles>
       <div class="o-wrapper o-wrapper--huge Header__tagline u-margin-top-huge u-padding-top u-text-center u-text-branding-primary u-text-special-font u-text-h3">
         Cool UX Tools is a curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
       </div>
     </header>
-    <nuxt class="Layout__main o-wrapper u-margin-bottom-huge u-padding-bottom-huge" />
+    <nuxt class="Layout__main o-wrapper u-margin-bottom-huge" />
     <footer class="Footer Layout__footer">
       <div class="Footer__wrapper o-wrapper u-flex u-padding-vertical-large">
         <div>
-          Made with 💚 by&nbsp;<FancyLink target="_blank" href="https://twitter.com/afontcu_" title="Twitter">@afontcu_</FancyLink>
+          Made with 💚 by&nbsp;<fancy-link target="_blank" href="https://twitter.com/afontcu_" title="My Twitter">@afontcu_</fancy-link>
         </div>
         <div class="u-margin-left-auto">
-          Feel free to report issues or 🆒 ideas on <FancyLink target="_blank" href="https://github.com/afontcu/cool-ux-tools" title="Github">Github &rarr;</FancyLink>
+          Feel free to report issues or 🆒 ideas on <fancy-link target="_blank" href="https://github.com/afontcu/cool-ux-tools" title="Github repository">Github &rarr;</fancy-link>
         </div>
       </div>
     </footer>
