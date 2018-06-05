@@ -7,10 +7,7 @@
     <div class="Category__resources-list">
       <cool-resource v-for="resource in filteredResources"
                      :key="resource.uri"
-                     :category="resource.category"
-                     :link="resource.link"
-                     :name="resource.name"
-                     :image="resource.image"
+                     v-bind="resource"
       />
     </div>
   </div>
