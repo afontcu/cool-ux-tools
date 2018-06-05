@@ -13,9 +13,9 @@
       <span v-if="description" class="u-flex-default u-margin-bottom-small">
         {{ description }}
       </span>
-      <FancyLink :href="link" :title="name" target="_blank">
+      <fancy-link :href="link" :title="name" target="_blank">
         Go to {{ name }} &rarr;
-      </FancyLink>
+      </fancy-link>
     </div>
   </div>
 </template>
