@@ -2,14 +2,14 @@
   <div class="Faq o-wrapper o-wrapper--huge">
     <div class="u-text-h1 u-text-special-font">FAQs</div>
     <h3 class="Faq__question u-text-special-font u-text-h4">
-      but why did you do this?
+      why did you do this?
     </h3>
     <p class="Faq__answer u-margin-bottom-large">
       Why not? There's a lot of cool resources out there and I needed a place to gather them. I had my own Google Sheet file, and I wanted
       to share it in a comfortable way. So here we are.
     </p>
     <h3 class="Faq__question u-text-special-font u-text-h4">
-      but aren't you a frontend engineer?
+      aren't you a frontend engineer?
     </h3>
     <p class="Faq__answer u-margin-bottom-large">
       Yes I am! But lines are blurry and sometimes I need to step into the realm of UX, for which I feel myself more insufficient.
@@ -23,7 +23,7 @@
       doing the right things right, so research and design is critical. And "UI Developer" sounds cool.
     </p>
     <h3 class="Faq__question u-text-special-font u-text-h4">
-      but my tool/resource/whatever isn't listed and it's cooler than you
+      my tool/resource/whatever isn't listed and it's cooler than you
     </h3>
     <p class="Faq__answer u-margin-bottom-large">
       Yeap, that's possible. Sorry to hear. I listed the tools I knew and I liked, so if yours isn't there, it's probably because
