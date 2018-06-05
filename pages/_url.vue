@@ -5,24 +5,24 @@
       <h2 v-if="category.description" class="u-margin-bottom-huge u-text-center u-text-h3">{{ category.description }}</h2>
     </div>
     <div class="Category__resources-list">
-      <Resource v-for="resource in filteredResources"
-                :key="resource.uri"
-                :category="resource.category"
-                :link="resource.link"
-                :name="resource.name"
-                :image="resource.image"
+      <cool-resource v-for="resource in filteredResources"
+                     :key="resource.uri"
+                     :category="resource.category"
+                     :link="resource.link"
+                     :name="resource.name"
+                     :image="resource.image"
       />
     </div>
   </div>
 </template>
 
 <script>
-import Resource from '@/components/Resource'
+import CoolResource from '@/components/CoolResource'
 import { resources } from '~/data/data.json'
 
 export default {
   components: {
-    Resource,
+    CoolResource,
   },
   asyncData ({ route, error }) {
     const { categories } = require('~/data/data.json')

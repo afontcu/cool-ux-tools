@@ -1,18 +1,18 @@
 <template>
-  <div :class="[ classes ]" class="Resource u-padding-small o-media o-media--top">
+  <div :class="[ classes ]" class="Cool-resource u-padding-small o-media o-media--top">
     <FancyLink :href="link"
                :title="name"
-               class="Resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center" target="_blank">
-      <img :src="imageSrc" :alt="name" width="150" class="Resource__image-tag">
+               class="Cool-resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center" target="_blank">
+      <img :src="imageSrc" :alt="name" width="150">
     </FancyLink>
     <div class="o-media__body u-flex u-flex-column">
-      <h3 class="Resource__title u-text-special-font u-text-h2 u-text-uppercase">
+      <h3 class="u-text-special-font u-text-h2 u-text-uppercase">
         {{ name }}
       </h3>
       <span v-if="description" class="u-flex-default u-margin-bottom-small">
         {{ description }}
       </span>
-      <FancyLink :href="link" :title="name" class="Resource__link" target="_blank">
+      <FancyLink :href="link" :title="name" target="_blank">
         Go to {{ name }} &rarr;
       </FancyLink>
     </div>
@@ -24,7 +24,7 @@ import FancyLink from '@/components/FancyLink'
 import descriptions from '~/data/descr.json'
 
 export default {
-  name: 'Resource',
+  name: 'CoolResource',
   components: {
     FancyLink,
   },

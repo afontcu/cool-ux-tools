@@ -1,19 +1,19 @@
-import Resource from './index.js'
+import CoolResource from './index.js'
 import { mount } from '@vue/test-utils'
 
-describe('Resource.vue', () => {
+describe('CoolResource.vue', () => {
   it('is a component', () => {
-    const wrapper = mount(Resource)
+    const wrapper = mount(CoolResource)
     expect(wrapper.isVueInstance()).toBeTruthy()
   })
 
   it('renders main node', () => {
-    const wrapper = mount(Resource)
-    expect(wrapper.classes()).toContain('c-resource')
+    const wrapper = mount(CoolResource)
+    expect(wrapper.classes()).toContain('Cool-resource')
   })
 
   it('renders a snapshot', () => {
-    const wrapper = mount(Resource)
+    const wrapper = mount(CoolResource)
     expect(wrapper.html()).toMatchSnapshot('default')
   })
 })
