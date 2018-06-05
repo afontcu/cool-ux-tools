@@ -46,19 +46,6 @@ export default {
 <style lang="scss">
 @import "~assets/main";
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 300;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-html, body {
-  min-height: 100vh;
-}
-
 .Layout {
   font-family: -apple-system, BlinkMacSystemFont,
     "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
