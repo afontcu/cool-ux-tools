@@ -17,7 +17,7 @@
       <br><br>
       btw, I like how
       <fancy-link target="_blank" title="Differences between UX designer and UI developer" href="https://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/">
-        this picture from Ben Meblourne
+        this picture from Ben Melbourne
       </fancy-link>
       (the second one, obviously) articulates the difference between UX, design, frontend and so on. And I like
       doing the right things right, so research and design is critical. And "UI Developer" sounds cool.
