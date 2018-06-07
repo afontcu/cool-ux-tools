@@ -13,9 +13,6 @@
           <polygon fill="white" points="0,76 21,100 33,60 45,100 50,75 55,100 72,70 85,100 95,62 100,80 100,100 0,100" />
         </svg>
       </triangles>
-      <div class="o-wrapper o-wrapper--huge u-margin-top-huge u-padding-top u-text-center u-text-branding-primary u-text-special-font u-text-h3">
-        Cool UX Tools is a curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
-      </div>
     </header>
     <nuxt class="Layout__main o-wrapper u-margin-bottom-huge" />
     <footer class="Footer Layout__footer">
