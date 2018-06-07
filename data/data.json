@@ -498,7 +498,7 @@
     "category": "wireframing",
     "link": "http://sketchsheets.com/",
     "name": "Sketchsheets",
-    "image": "",
+    "image": "/sketchsheets.png",
     "uri": "sketchsheets"
   },
   {
@@ -530,6 +530,13 @@
     "uri": "pidoco"
   },
   {
+    "category": "wireframing",
+    "link": "http://sneakpeekit.com/",
+    "name": "Sneakpeekit",
+    "image": "/sneakpeakit.png",
+    "uri": "sneakpeekit"
+  },
+  {
     "category": "mocking-prototyping",
     "link": "https://www.uxpower.tools/",
     "name": "UX Power Tools",
@@ -540,7 +547,7 @@
     "category": "mocking-prototyping",
     "link": "http://dunnnk.com/",
     "name": "Dunnnk",
-    "image": "",
+    "image": "/dunnnk.png",
     "uri": "dunnnk"
   },
   {
@@ -1098,13 +1105,6 @@
   },
   {
     "category": "ab-split-testing",
-    "link": "https://www.optimizely.com/",
-    "name": "Optimizely",
-    "image": "/optimizely.jpg",
-    "uri": "optimizely"
-  },
-  {
-    "category": "ab-split-testing",
     "link": "https://www.convert.com/",
     "name": "Convert",
     "image": "/convert.png",
@@ -1116,6 +1116,13 @@
     "name": "AB Tasty",
     "image": "/ab-tasty.png",
     "uri": "ab-tasty"
+  },
+  {
+    "category": "ab-split-testing",
+    "link": "https://www.optimizely.com/",
+    "name": "Optimizely",
+    "image": "/optimizely.jpg",
+    "uri": "optimizely"
   },
   {
     "category": "ab-split-testing",
@@ -1142,7 +1149,7 @@
     "category": "ab-split-testing",
     "link": "https://www.kissmetrics.com/growth-tools/ab-significance-test/",
     "name": "A/B Significance Tests - Kissmetrics",
-    "image": "/a-b-significance-tests-kissmetrics.png",
+    "image": "/kissmetrics.png",
     "uri": "a-b-significance-tests-kissmetrics"
   },
   {

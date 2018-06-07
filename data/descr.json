@@ -236,8 +236,12 @@
     "description": "DesignDrop is a place for uploading and sharing designs with your team and clients. You upload a design, send someone a short URL and they can immediately view and comment on your work."
   },
   {
+    "link": "http://sneakpeekit.com/",
+    "description": "Sneakpeakit is simple a collection of printable Sketch Sheets for Design Wireframing."
+  },
+  {
     "link": "http://dunnnk.com/",
-    "description": "We generate beautiful product mockups. Upload your design and we'll give you a high resolution mockup in return."
+    "description": "Dunnnk lets you generate product mockups. Upload your design and wthey'll give you a high resolution mockup in return."
   },
   {
     "link": "http://www.infragistics.com/products/indigo-studio",
@@ -405,7 +409,7 @@
   },
   {
     "link": "http://littlebigdetails.com/",
-    "description": "Your daily dose of design inspiration."
+    "description": "A collection of little UI details to inspire you."
   },
   {
     "link": "https://coolors.co/",
