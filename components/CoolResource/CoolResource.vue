@@ -58,7 +58,7 @@ export default {
 </script>
 
 <style lang="scss">
-.Resource__image-link {
+.Cool-resource__image {
   border-radius: $global-radius;
   overflow: hidden;
 }

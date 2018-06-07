@@ -83,12 +83,12 @@
     {
       "url": "media-graphic",
       "name": "Media and Graphic",
-      "description": "These cool resources will help you add media content to your product design and prototypes."
+      "description": "These cool resources will help you choose colors and pictures, because that's the only important part of every design and you know it."
     },
     {
       "url": "typography",
       "name": "Typography",
-      "description": "These cool resources will help you choose the best font for your product."
+      "description": "These cool resources will help you choose the best font for your product. Or just use Comic Sans, it's the new black."
     },
     {
       "url": "screen-grabbing",
@@ -98,7 +98,7 @@
     {
       "url": "landing-page",
       "name": "Landing Page Generators",
-      "description": "These cool resources will help you with the creation of landing pages, fast and clean."
+      "description": "These cool resources will help you with the creation of landing pages, fast and clean. Feel like a developer."
     },
     {
       "url": "ab-split-testing",
@@ -108,7 +108,7 @@
     {
       "url": "web-mobile-analytics",
       "name": "Web and Mobile analytics",
-      "description": "These cool resources will help you learn from your visitors activity on your web or application."
+      "description": "These cool resources will help you learn from your visitors activity on your web or application. You are not gonna like it."
     },
     {
       "url": "web-performance-optimization",
@@ -428,15 +428,8 @@
     "category": "card-sorting",
     "link": "https://www.optimalworkshop.com/optimalsort",
     "name": "OptimalSort",
-    "image": "",
+    "image": "/optimalsort.png",
     "uri": "optimalsort"
-  },
-  {
-    "category": "card-sorting",
-    "link": "https://www.simplecardsort.com/",
-    "name": "Simplecardsort",
-    "image": "/simplecardsort.png",
-    "uri": "simplecardsort"
   },
   {
     "category": "card-sorting",
@@ -484,7 +477,7 @@
     "category": "mindmapping-brainstorming",
     "link": "https://www.smartdraw.com/",
     "name": "Smartdraw",
-    "image": "/smartdraw.png?bn=1510011130",
+    "image": "/smartdraw.jpg",
     "uri": "smartdraw"
   },
   {
@@ -778,7 +771,7 @@
     "category": "presentations",
     "link": "https://www.haikudeck.com/",
     "name": "Haikudeck",
-    "image": "/haikudeck.png",
+    "image": "/haikudeck.jpg",
     "uri": "haikudeck"
   },
   {
@@ -911,7 +904,7 @@
     "category": "media-graphic",
     "link": "https://coolors.co/",
     "name": "Coolors",
-    "image": "/coolors.svg",
+    "image": "/coolors.jpg",
     "uri": "coolors"
   },
   {
@@ -932,15 +925,8 @@
     "category": "media-graphic",
     "link": "https://www.materialpalette.com/",
     "name": "Materialpalette",
-    "image": "",
+    "image": "/materialpalette.png",
     "uri": "materialpalette"
-  },
-  {
-    "category": "media-graphic",
-    "link": "http://www.colorhunter.com/",
-    "name": "Colorhunter",
-    "image": "",
-    "uri": "colorhunter"
   },
   {
     "category": "media-graphic",
@@ -953,7 +939,7 @@
     "category": "media-graphic",
     "link": "https://mariodelvalle.github.io/CaptainIconWeb/",
     "name": "Captain Icon",
-    "image": "/captain-icon.svg",
+    "image": "/captain-icon.png",
     "uri": "captain-icon"
   },
   {
@@ -1394,14 +1380,14 @@
     "category": "notetaking",
     "link": "https://litewrite.net/",
     "name": "Litewrite",
-    "image": "",
+    "image": "/litewrite.png",
     "uri": "litewrite"
   },
   {
     "category": "notetaking",
     "link": "https://simplenote.com/",
     "name": "Simplenote",
-    "image": "/simplenote.png",
+    "image": "/simplenote.svg",
     "uri": "simplenote"
   },
   {
