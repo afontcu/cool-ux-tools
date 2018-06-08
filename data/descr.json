@@ -585,7 +585,7 @@
   },
   {
     "link": "http://halogensoftworks.com/shade/",
-    "description": "The greatest contrast tool in the galaxy"
+    "description": "Shade allows you to get color contrast insights and recommendations right from your mac status bar."
   },
   {
     "link": "http://squizlabs.github.io/HTML_CodeSniffer/",
@@ -598,6 +598,10 @@
   {
     "link": "https://validator.w3.org/unicorn/",
     "description": "The official W3C validator."
+  },
+  {
+    "link": "http://heydonworks.com/revenge_css_bookmarklet/",
+    "description": "Revenge.css is a CSS bookmarklet that reports bad html using inline pseudo content. (disclaimer: your eyes may suffer if you click this link)."
   },
   {
     "link": "https://www.deque.com/axe/",

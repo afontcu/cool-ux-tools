@@ -1275,7 +1275,7 @@
     "category": "accessibility",
     "link": "http://halogensoftworks.com/shade/",
     "name": "Shade",
-    "image": "",
+    "image": "/shade.png",
     "uri": "shade"
   },
   {
@@ -1289,14 +1289,14 @@
     "category": "accessibility",
     "link": "https://www.totalvalidator.com/",
     "name": "TotalValidator",
-    "image": "/totalvalidator.gif",
+    "image": "/totalvalidator.png",
     "uri": "totalvalidator"
   },
   {
     "category": "accessibility",
     "link": "https://validator.w3.org/unicorn/",
     "name": "W3C Validator",
-    "image": "/w3c-validator.png",
+    "image": "/w3c-validator.jpg",
     "uri": "w3c-validator"
   },
   {
@@ -1315,9 +1315,9 @@
   },
   {
     "category": "accessibility",
-    "link": "https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll",
+    "link": "http://heydonworks.com/revenge_css_bookmarklet/",
     "name": "Revenge.css",
-    "image": "",
+    "image": "/revenge.png",
     "uri": "revenge-css"
   },
   {
