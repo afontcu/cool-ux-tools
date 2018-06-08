@@ -1,6 +1,6 @@
 <template>
   <div class="Category">
-    <div class="o-wrapper o-wrapper--large">
+    <div class="Category__wrapper o-wrapper">
       <h1 class="Category__title u-margin-top-large u-text-center u-text-special-font">{{ category.name }} cool tools</h1>
       <h2 v-if="category.description" class="u-margin-bottom-huge u-text-center u-text-h3">{{ category.description }}</h2>
     </div>
@@ -59,6 +59,16 @@ export default {
 </script>
 
 <style lang="scss">
+.Category__wrapper {
+  padding: 0;
+}
+
+@media screen and (min-width: $medium-breakpoint) {
+  .Category__wrapper {
+    padding: 0 $global-spacing-unit-large;
+  }
+}
+
 .Category__resources-list {
   --columns: 1;
 
