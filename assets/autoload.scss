@@ -4,6 +4,12 @@
 
 $color-branding-primary: hsl(100, 68%, 38%);
 $color-branding-primary-muted: hsl(150, 50%, 87%);
+$color-branding-primary-accent: hsl(150, 50%, 29%);
 
 $global-colors: map-add($global-colors, "branding-primary", $color-branding-primary);
 $global-colors: map-add($global-colors, "branding-primary-muted", $color-branding-primary-muted);
+$global-colors: map-add($global-colors, "branding-primary-accent", $color-branding-primary-accent);
+
+
+$small-breakpoint: 420px;
+$medium-breakpoint: 800px;
