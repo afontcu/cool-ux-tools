@@ -20,6 +20,14 @@ import FancyLink from '@/components/FancyLink'
 import { resources } from '~/data/data.json'
 
 export default {
+  head () {
+    return {
+      title: `${this.category.name} - Cool UX Tools`,
+      meta: [
+        { hid: 'description', name: 'description', content: this.category.description },
+      ],
+    }
+  },
   components: {
     CoolResource,
     FancyLink,
