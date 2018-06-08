@@ -4,7 +4,7 @@
        :title="name"
        target="_blank"
        class="Cool-resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center u-padding-bottom">
-      <img :src="imageSrc" :alt="name" width="150" class="Cool-resource__image">
+      <img :src="imageSrc" :alt="name" class="Cool-resource__image">
     </a>
     <div class="o-media__body u-flex u-flex-column">
       <h3 class="u-text-special-font u-text-h2 u-text-uppercase">
@@ -49,9 +49,7 @@ export default {
     },
     classes () {
       const className = this.name.toLowerCase().replace(/[\W_]+/g, '')
-      return {
-        [`Resource--${className}`]: true,
-      }
+      return [`Resource--${className}`]
     },
   },
 }
@@ -59,8 +57,8 @@ export default {
 
 <style lang="scss">
 .Cool-resource__image {
+  width: calc(75px + 1vw);
   border-radius: $global-radius;
-  overflow: hidden;
 }
 
 .Cool-resource__image {
@@ -68,6 +66,12 @@ export default {
 
   &:hover {
     transform: rotate3d(0, 0, 1, -2deg) scale(1.1);
+  }
+}
+
+@media screen and (min-width: $small-breakpoint) {
+  .Cool-resource__image {
+    width: 150px;
   }
 }
 </style>

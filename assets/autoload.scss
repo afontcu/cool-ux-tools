@@ -2,14 +2,13 @@
 @import "~normandy-css/scss/2-Tools/main";
 
 
-$color-branding-primary: hsl(100, 68%, 38%);
-$color-branding-primary-muted: hsl(150, 50%, 87%);
-$color-branding-primary-accent: hsl(150, 50%, 29%);
+$color-branding-primary: hsl(106, 55%, 47%);
+$color-branding-primary-muted: hsl(106, 55%, 87%);
+$color-branding-primary-accent: hsl(106, 55%, 29%);
 
 $global-colors: map-add($global-colors, "branding-primary", $color-branding-primary);
 $global-colors: map-add($global-colors, "branding-primary-muted", $color-branding-primary-muted);
 $global-colors: map-add($global-colors, "branding-primary-accent", $color-branding-primary-accent);
 
-
-$small-breakpoint: 420px;
+$small-breakpoint: 520px;
 $medium-breakpoint: 800px;
