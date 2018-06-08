@@ -9,7 +9,7 @@ describe('Faq.vue', () => {
 
   it('renders main node', () => {
     const wrapper = mount(Faq)
-    expect(wrapper.classes()).toContain('c-f-a-q')
+    expect(wrapper.classes()).toContain('Faq')
   })
 
   it('renders a snapshot', () => {

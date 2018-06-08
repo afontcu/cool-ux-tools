@@ -9,7 +9,7 @@ describe('TheFooter.vue', () => {
 
   it('renders main node', () => {
     const wrapper = mount(TheFooter)
-    expect(wrapper.classes()).toContain('c-the-footer')
+    expect(wrapper.classes()).toContain('Footer')
   })
 
   it('renders a snapshot', () => {

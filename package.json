@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
+    "test": "jest",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
@@ -18,11 +19,16 @@
     "@nuxtjs/google-analytics": "^2.0.2",
     "normandy-css": "^1.0.2",
     "nuxt": "^1.4.1",
+    "nuxt-babel": "^0.1.2",
     "nuxt-sass-resources-loader": "^2.0.2",
     "vue-clazy-load": "^0.4.2"
   },
   "devDependencies": {
+    "@vue/test-utils": "^1.0.0-beta.16",
     "babel-eslint": "^8.2.1",
+    "babel-jest": "^22.4.3",
+    "babel-plugin-dynamic-import-node": "^1.2.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "eslint": "^4.15.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-friendly-formatter": "^3.0.0",
@@ -32,7 +38,47 @@
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0",
     "eslint-plugin-vue": "^4.0.0",
+    "intersection-observer": "^0.5.0",
+    "jest": "^22.4.3",
+    "jest-serializer-html": "^5.0.0",
+    "jest-transform-stub": "^1.0.0",
     "node-sass": "^4.9.0",
-    "sass-loader": "^7.0.3"
+    "sass-loader": "^7.0.3",
+    "vue-jest": "^2.6.0"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "vue"
+    ],
+    "moduleNameMapper": {
+      "^@[/](.+)": "<rootDir>/$1",
+      "^~[/](.+)": "<rootDir>/$1",
+      "^components[/](.+)": "<rootDir>/components/$1",
+      "^vue$": "vue/dist/vue.common.js"
+    },
+    "snapshotSerializers": [
+      "jest-serializer-html"
+    ],
+    "collectCoverageFrom": [
+      "frontend/**/*.{js,jsx}"
+    ],
+    "transform": {
+      "^.+\\.js$": "<rootDir>/node_modules/babel-jest",
+      ".*\\.(vue)$": "<rootDir>/node_modules/vue-jest",
+      ".+\\.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$": "jest-transform-stub"
+    },
+    "transformIgnorePatterns": [
+      "node_modules/(?!vue-keyboard)"
+    ],
+    "globals": {
+      "vue-jest": {
+        "resources": {
+          "scss": [
+            "./frontend/assets/css/autoload.scss"
+          ]
+        }
+      }
+    }
   }
 }

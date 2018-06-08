@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CoolResource.vue renders a snapshot: default 1`] = `
+
+<div class="Cool-resource u-padding-small o-media o-media--top Resource--name">
+  <a href="link.com"
+     title="Name"
+     target="_blank"
+     rel="noopener"
+     class="Cool-resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center u-padding-bottom"
+  >
+    <div class="loading">
+      <div class="Cool-resource-image__placeholder"
+           name="fade"
+      >
+      </div>
+    </div>
+  </a>
+  <div class="o-media__body u-flex u-flex-column">
+    <h3 class="u-text-special-font u-text-h2 u-text-uppercase">
+      Name
+    </h3>
+    <a href="link.com"
+       title="Name"
+       class="FancyLink"
+       target="_blank"
+       rel="noopener"
+    >
+      Go to Name →
+    </a>
+  </div>
+</div>
+
+`;

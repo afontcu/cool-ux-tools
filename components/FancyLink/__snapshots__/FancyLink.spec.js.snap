@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FancyLink.vue renders a snapshot: default 1`] = `
+
+<a href="href.com"
+   title="someTitle"
+   class="FancyLink"
+>
+  someTitle
+</a>
+
+`;

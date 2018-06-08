@@ -45,7 +45,8 @@ export default {
   },
   computed: {
     description () {
-      return this.descriptions.find(d => d.link === this.link).description
+      const selectedResource = this.descriptions.find(d => d.link === this.link)
+      return selectedResource ? selectedResource.description : ''
     },
     imageSrc () {
       return `/logos${this.image}`

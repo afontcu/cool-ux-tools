@@ -1,5 +1,6 @@
 module.exports = {
   modules: [
+    'nuxt-babel',
     ['nuxt-sass-resources-loader', [
       '@/assets/autoload.scss',
     ]],

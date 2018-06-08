@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoriesGrid.vue renders a snapshot: default 1`] = `
+
+<div class="Categories-grid u-flex u-flex-wrap u-flex-justify-between">
+</div>
+
+`;
