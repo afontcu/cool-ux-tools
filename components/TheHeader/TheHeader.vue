@@ -10,7 +10,7 @@
         A curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
       </div>
     </div>
-    <triangles :height="height" class="Header__triangles u-padding-top-huge">
+    <triangles :height="height" class="Header__triangles">
       <svg class="Header__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
         <polygon fill="white" points="0,76 21,100 33,60 45,100 50,75 55,100 72,70 85,100 95,62 100,80 100,100 0,100" />
       </svg>
