@@ -1,10 +1,10 @@
 <template>
-  <vue-clazy-load :src="src">
+  <vue-clazy-load :src="src" class="CoolImage">
     <transition name="fade">
-      <img :src="src" :alt="alt" class="Cool-resource-image">
+      <img :src="src" :alt="alt" class="CoolImage__img">
     </transition>
     <transition slot="placeholder" name="fade">
-      <div class="Cool-resource-image__placeholder"/>
+      <div class="CoolImage__placeholder"/>
     </transition>
   </vue-clazy-load>
 </template>
@@ -25,10 +25,17 @@ export default {
 </script>
 
 <style lang="scss">
-$image-size: 150px;
+.CoolImage {
+  --image-size: 75px;
+}
+@media screen and (min-width: $small-breakpoint) {
+  .CoolImage {
+    --image-size: 150px;
+  }
+}
 
-.Cool-resource-image {
-  width: calc(75px + 1vw);
+.CoolImage__img {
+  width: calc(var(--image-size) + 1vw);
   transition: transform $global-transition ease;
   border-radius: $global-radius;
 
@@ -37,15 +44,9 @@ $image-size: 150px;
   }
 }
 
-@media screen and (min-width: $small-breakpoint) {
-  .Cool-resource-image {
-    width: $image-size;
-  }
-}
-
-.Cool-resource-image__placeholder {
-  width: $image-size;
-  height: $image-size;
+.CoolImage__placeholder {
+  width: var(--image-size);
+  height: var(--image-size);
   background-color: #f1f1f2;
 }
 
