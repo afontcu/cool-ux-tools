@@ -1,17 +1,17 @@
 <template>
-  <div class="Faq o-wrapper o-wrapper--huge">
+  <div class="Faq">
     <div class="u-text-h1 u-text-special-font">FAQs</div>
-    <h3 class="Faq__question u-text-special-font u-text-h4">
+    <h3 class="u-text-special-font u-text-h4">
       why did you do this?
     </h3>
-    <p class="Faq__answer u-margin-bottom-large">
+    <p class="u-margin-bottom-large">
       Why not? There's a lot of cool resources out there and I needed a place to gather them. I had my own Google Sheet file, and I wanted
       to share it in a comfortable way. So here we are.
     </p>
-    <h3 class="Faq__question u-text-special-font u-text-h4">
+    <h3 class="u-text-special-font u-text-h4">
       aren't you a frontend engineer?
     </h3>
-    <p class="Faq__answer u-margin-bottom-large">
+    <p class="u-margin-bottom-large">
       Yes I am! But lines are blurry and sometimes I need to step into the realm of UX, for which I feel myself more insufficient.
       This is why I explored a lot of tools, to understand what were trying to solve and why.
       <br><br>
@@ -22,10 +22,10 @@
       (the second one, obviously) articulates the difference between UX, design, frontend and so on. And I like
       doing the right things right, so research and design is critical. And "UI Developer" sounds cool, so ¯\_(ツ)_/¯
     </p>
-    <h3 class="Faq__question u-text-special-font u-text-h4">
+    <h3 class="u-text-special-font u-text-h4">
       my tool/resource/whatever isn't listed and it's cooler than you
     </h3>
-    <p class="Faq__answer u-margin-bottom-large">
+    <p class="u-margin-bottom-large">
       Yeap, that's possible. Sorry to hear. I listed the tools I knew and I liked, so if yours isn't there, it's probably because
       (1) I didn't know about it or (2) other tools were cooler than yours. But I'm almost always wrong, so it must be reason #1.
       Please let me know on
@@ -49,3 +49,17 @@ export default {
   },
 }
 </script>
+
+<style lang="scss">
+
+.Faq {
+  --padding: #{$global-spacing-unit};
+
+  @media screen and (min-width: $medium-breakpoint) {
+    --padding: #{$global-spacing-unit-huge};
+  }
+
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+}
+</style>
