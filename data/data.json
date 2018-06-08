@@ -862,7 +862,7 @@
     "category": "storyboard",
     "link": "https://wonderunit.com/storyboarder/",
     "name": "Storyboarder",
-    "image": "",
+    "image": "/storyboarder.png",
     "uri": "storyboarder"
   },
   {
@@ -1030,7 +1030,7 @@
     "category": "screen-grabbing",
     "link": "https://snag.gy/",
     "name": "Snaggy",
-    "image": "",
+    "image": "/snaggy.png",
     "uri": "snaggy"
   },
   {
@@ -1065,7 +1065,7 @@
     "category": "landing-page",
     "link": "https://www.launchrock.com",
     "name": "Launchrock",
-    "image": "",
+    "image": "/launchrock.png",
     "uri": "launchrock"
   },
   {
@@ -1092,8 +1092,8 @@
   {
     "category": "landing-page",
     "link": "https://vwo.com/landing-page-analyzer/",
-    "name": "Vwo/landing-page-analyzer",
-    "image": "/vwo-landing-page-analyzer.png",
+    "name": "vwo's Landing Page Analyzer",
+    "image": "/vwo.png",
     "uri": "vwo-landing-page-analyzer"
   },
   {
@@ -1191,7 +1191,7 @@
     "category": "web-mobile-analytics",
     "link": "https://heapanalytics.com/",
     "name": "Heapanalytics",
-    "image": "",
+    "image": "/heapanalytics.png",
     "uri": "heapanalytics"
   },
   {
