@@ -3,6 +3,9 @@ module.exports = {
     ['nuxt-sass-resources-loader', [
       '@/assets/autoload.scss',
     ]],
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-120531729-1',
+    }],
   ],
   /*
   ** Headers of the page
@@ -25,7 +28,7 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
-  loading: { color: '#4aa21f' },
+  loading: { color: '#4ba630' },
   /*
   ** Build configuration
   */

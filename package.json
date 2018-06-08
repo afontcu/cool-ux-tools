@@ -15,6 +15,8 @@
     "deploy": "nuxt generate && firebase deploy"
   },
   "dependencies": {
+    "@nuxtjs/google-analytics": "^2.0.2",
+    "normandy-css": "^1.0.2",
     "nuxt": "^1.4.1",
     "nuxt-sass-resources-loader": "^2.0.2",
     "vue-clazy-load": "^0.4.2"
@@ -31,7 +33,6 @@
     "eslint-plugin-standard": "^3.1.0",
     "eslint-plugin-vue": "^4.0.0",
     "node-sass": "^4.9.0",
-    "normandy-css": "^1.0.2",
     "sass-loader": "^7.0.3"
   }
 }
