@@ -16,7 +16,7 @@
       This is why I explored a lot of tools, to understand what were trying to solve and why.
       <br><br>
       btw, I like how
-      <fancy-link target="_blank" title="Differences between UX designer and UI developer" href="https://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/">
+      <fancy-link target="_blank" rel="noopener" title="Differences between UX designer and UI developer" href="https://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/">
         this picture from Ben Melbourne
       </fancy-link>
       (the second one, obviously) articulates the difference between UX, design, frontend and so on. And I like
@@ -29,9 +29,9 @@
       Yeap, that's possible. Sorry to hear. I listed the tools I knew and I liked, so if yours isn't there, it's probably because
       (1) I didn't know about it or (2) other tools were cooler than yours. But I'm almost always wrong, so it must be reason #1.
       Please let me know on
-      <fancy-link target="_blank" title="My Twitter" href="https://twitter.com/afontcu_">Twitter</fancy-link>
+      <fancy-link target="_blank" rel="noopener" title="My Twitter" href="https://twitter.com/afontcu_">Twitter</fancy-link>
       or
-      <fancy-link target="_blank" title="Github repository" href="https://github.com/afontcu/cool-ux-tools">Github</fancy-link>.
+      <fancy-link target="_blank" rel="noopener" title="Github repository" href="https://github.com/afontcu/cool-ux-tools">Github</fancy-link>.
     </p>
   </div>
 </template>

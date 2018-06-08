@@ -3,6 +3,7 @@
     <a :href="link"
        :title="name"
        target="_blank"
+       rel="noopener"
        class="Cool-resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center u-padding-bottom">
       <cool-resource-image :src="imageSrc" :alt="name" />
     </a>
@@ -13,7 +14,7 @@
       <span v-if="description" class="u-flex-default u-margin-bottom-small">
         {{ description }}
       </span>
-      <fancy-link :href="link" :title="name" target="_blank">
+      <fancy-link :href="link" :title="name" target="_blank" rel="noopener">
         Go to {{ name }} &rarr;
       </fancy-link>
     </div>

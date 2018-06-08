@@ -2,10 +2,10 @@
   <footer class="Footer">
     <div class="Footer__wrapper o-wrapper u-flex u-padding-vertical-large u-text-h4 u-text-thin">
       <div class="Footer__line u-margin-bottom-small">
-        Made with 💚 by&nbsp;<fancy-link target="_blank" href="https://twitter.com/afontcu_" title="My Twitter">@afontcu_</fancy-link>
+        Made with 💚 by&nbsp;<fancy-link target="_blank" href="https://twitter.com/afontcu_" title="My Twitter" rel="noopener" >@afontcu_</fancy-link>
       </div>
       <div class="Footer__line u-margin-bottom-small">
-        Feel free to report issues or 🆒 ideas on <fancy-link target="_blank" href="https://github.com/afontcu/cool-ux-tools" title="Github repository">Github &rarr;</fancy-link>
+        Feel free to report issues or 🆒 ideas on <fancy-link target="_blank" href="https://github.com/afontcu/cool-ux-tools" title="Github repository" rel="noopener">Github &rarr;</fancy-link>
       </div>
     </div>
   </footer>
