@@ -10,6 +10,12 @@ module.exports = {
     }],
   ],
   /*
+  ** Plugins
+  */
+  plugins: [
+    { src: '~/plugins/intersection.js', ssr: false },
+  ],
+  /*
   ** Headers of the page
   */
   head: {
