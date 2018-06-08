@@ -42,7 +42,11 @@ export default {
 </script>
 
 <style lang="scss">
-@media screen and (min-width: $small-breakpoint) {
+.Header {
+  margin-top: $global-spacing-unit;
+}
+
+@media screen and (min-width: $medium-breakpoint) {
   .Header {
     margin-top: $global-spacing-unit-large;
   }
@@ -74,7 +78,7 @@ export default {
 }
 
 .Logo__text--cool {
-  padding-top: $global-spacing-unit;
+  padding-top: $global-spacing-unit-small;
 }
 
 .Logo__text--cool,
@@ -110,13 +114,17 @@ export default {
   .Logo {
     display: grid;
     grid-template-columns: 1.3fr 1fr;
+    grid-gap: $global-spacing-unit;
     justify-items: start;
     align-items: center;
   }
 
-  .Logo__text--cool,
-  .Logo__text--tools, {
+  .Logo__text--cool {
     padding-top: $global-spacing-unit;
+  }
+
+  .Logo__text--tools, {
+    padding-top: $global-spacing-unit-small;
   }
 }
 </style>
