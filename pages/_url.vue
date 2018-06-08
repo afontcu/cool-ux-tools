@@ -52,9 +52,15 @@ export default {
 
 <style lang="scss">
 .Category__resources-list {
+  --columns: 1;
+
+  @media screen and (min-width: $medium-breakpoint) {
+    --columns: 2;
+  }
+
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
   grid-gap: $global-spacing-unit-large;
+  grid-template-columns: repeat(var(--columns), 1fr);
 }
 
 .Category__title {
