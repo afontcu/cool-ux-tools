@@ -1,6 +1,7 @@
 module.exports = {
   modules: [
     'nuxt-babel',
+    '@nuxtjs/pwa',
     ['nuxt-sass-resources-loader', [
       '@/assets/autoload.scss',
     ]],
@@ -25,6 +26,15 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Luckiest+Guy' },
     ],
+  },
+  /*
+  ** Web App Manifest
+  */
+  manifest: {
+    name: 'Cool UX Tools',
+    short_name: 'CoolUXTools',
+    display: 'standalone',
+    lang: 'en',
   },
   /*
   ** Customize the progress bar color
