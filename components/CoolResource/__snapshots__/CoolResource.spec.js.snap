@@ -9,8 +9,8 @@ exports[`CoolResource.vue renders a snapshot: default 1`] = `
      rel="noopener"
      class="Cool-resource__image-link o-media__img u-flex u-flex-column u-flex-justify-center u-padding-bottom"
   >
-    <div class="loading">
-      <div class="Cool-resource-image__placeholder"
+    <div class="CoolImage loading">
+      <div class="CoolImage__placeholder"
            name="fade"
       >
       </div>

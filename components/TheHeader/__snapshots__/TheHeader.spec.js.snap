@@ -2,18 +2,18 @@
 
 exports[`TheHeader.vue renders a snapshot: default 1`] = `
 
-<header class="Header"
-        style="height: 350px;"
+<header class="Header u-flex u-flex-items-center"
+        style="height: 370px;"
 >
-  <div class="Logo o-wrapper u-text-branding-primary">
-    <div class="Tagline u-text-h4">
+  <div class="Header__item Logo o-wrapper u-text-branding-primary">
+    <div class="Tagline">
       A curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
     </div>
   </div>
-  <svg height="350"
+  <svg height="370"
        xmlns="http://www.w3.org/2000/svg"
        width="100%"
-       class="Header__triangles u-padding-top-huge"
+       class="Header__triangles"
   >
     <path d="M1046,73L1034,154L1103,145Z"
           fill="#8ed668"
@@ -1647,16 +1647,6 @@ exports[`TheHeader.vue renders a snapshot: default 1`] = `
           stroke-width="1.51"
     >
     </path>
-    <svg xmlns="http://www.w3.org/2000/svg"
-         viewbox="0 0 100 100"
-         preserveaspectratio="none"
-         class="Header__svg"
-    >
-      <polygon fill="white"
-               points="0,76 21,100 33,60 45,100 50,75 55,100 72,70 85,100 95,62 100,80 100,100 0,100"
-      >
-      </polygon>
-    </svg>
   </svg>
 </header>
 
