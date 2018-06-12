@@ -48,4 +48,12 @@ export default {
     background: map-get($global-colors, 'branding-primary');
   }
 }
+
+// Fixes double tap issue with iOS, where first click would only trigger the animation,
+// and a second click was required to actually "click" the link. FML.
+@media (hover: none) {
+  .FancyLink::before {
+    display: none;
+  }
+}
 </style>
