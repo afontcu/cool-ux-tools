@@ -12,15 +12,15 @@
       aren't you a frontend engineer?
     </h3>
     <p class="u-margin-bottom-large">
-      Yes I am! But lines are blurry and sometimes I need to step into the realm of UX, for which I feel myself more insufficient.
-      This is why I explored a lot of tools, to understand what were trying to solve and why.
+      Yes, I am! But lines are blurry and sometimes I need to step into the realm of UX, for which I feel more insufficient.
+      This is why I explored a lot of tools, to understand what they were trying to solve and why.
       <br><br>
       btw, I like how
       <fancy-link target="_blank" rel="noopener" title="Differences between UX designer and UI developer" href="https://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/">
         this picture from Ben Melbourne
       </fancy-link>
       (the second one, obviously) articulates the difference between UX, design, frontend and so on. And I like
-      doing the right things right, so research and design is critical. And "UI Developer" sounds cool, so ¯\_(ツ)_/¯
+      doing the right things right, so research and design are critical. And "UI Developer" sounds cool, so ¯\_(ツ)_/¯
     </p>
     <h3 class="u-text-special-font u-text-h4">
       my tool/resource/whatever isn't listed and it's cooler than you
