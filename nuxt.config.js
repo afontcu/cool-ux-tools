@@ -30,7 +30,7 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Luckiest+Guy' },
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com/', crossorigin: 'anonymous' },
     ],
   },
   /*
