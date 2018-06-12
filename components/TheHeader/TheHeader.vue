@@ -43,9 +43,9 @@ export default {
 }
 
 .Tagline {
+  padding-top: $global-spacing-unit;
   color: white;
   text-align: center;
-  padding-top: $global-spacing-unit;
   @include font-size(map-get($global-font-sizes, "h4"));
 }
 
@@ -123,6 +123,7 @@ export default {
   }
 
   .Tagline {
+    padding-right: $global-spacing-unit-small;
     @include font-size(map-get($global-font-sizes, "h3"));
   }
 
