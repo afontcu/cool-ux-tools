@@ -24,7 +24,7 @@ export default {
   },
   data () {
     return {
-      height: 350,
+      height: 370,
     }
   },
   computed: {
@@ -57,9 +57,7 @@ export default {
 .Logo__link {
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: $global-spacing-unit-small;
-  margin-left: $global-spacing-unit;
-  margin-right: $global-spacing-unit;
+  margin: 0 $global-spacing-unit;
 }
 
 .Logo__text {
