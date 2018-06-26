@@ -2,7 +2,7 @@
 
 Cool UX Tools is a curated list of (obviously) cool resources and tools for developers, UX researchers, designers and project managers.
 
-https://cool-ux-tools.firebaseapp.com/
+https://coolux.tools
 
 
 ## Contributing 
