@@ -26,16 +26,16 @@ export default {
 
 <style lang="scss">
 .CoolImage {
-  --image-size: 75px;
+  --image-size: calc(75px + 1vw);
 }
 @media screen and (min-width: $small-breakpoint) {
   .CoolImage {
-    --image-size: 150px;
+    --image-size: calc(150px + 1vw);
   }
 }
 
 .CoolImage__img {
-  width: calc(var(--image-size) + 1vw);
+  width: var(--image-size);
   transition: transform $global-transition ease;
   border-radius: $global-radius;
 
