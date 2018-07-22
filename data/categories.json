@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "url": "user-recruiting",
+      "name": "User Recruiting",
+      "description": "These cool resources will help you recruit interesting people to remote test your web, app or design."
+    },
+    {
+      "url": "user-recording-heatmap",
+      "name": "User recording and Heatmaps",
+      "description": "These cool resources will help you record your users and learn from the way they interact with your product. Prepare to have your mind blown."
+    },
+    {
+      "url": "onsite-surveys",
+      "name": "Onsite surveys",
+      "description": "These cool resources will help you survey your current visitors to get feedback while they are struggling using your product."
+    },
+    {
+      "url": "surveys",
+      "name": "Surveys",
+      "description": "Would you like to discover new resources to create amazing surveys? ☑️ Yes ☑️ Of course"
+    },
+    {
+      "url": "user-journey",
+      "name": "User Journey",
+      "description": "These cool resources will help you define and share your users journey. Someone really smart once said that 'Sometimes it's the journey that teaches you a lot about your destination.'"
+    },
+    {
+      "url": "user-personas",
+      "name": "User personas",
+      "description": "These cool resources will help you define your product personas. Give 'em cool names!"
+    },
+    {
+      "url": "card-sorting",
+      "name": "Card Sorting",
+      "description": "These cool resources will help you do card sorting activities to evalute your information arquitecture."
+    },
+    {
+      "url": "mindmapping-brainstorming",
+      "name": "Mindmapping and Brainstorming",
+      "description": "These cool resources will help you run brainstorming activities, where everyone shoot ideas, no matter the quality of them. Go crazy."
+    },
+    {
+      "url": "wireframing",
+      "name": "Wireframing",
+      "description": "These cool resources will help you in the process of creating low fidelity wireframes for your product so your stakeholders won't focus on button design... hopefully."
+    },
+    {
+      "url": "mocking-prototyping",
+      "name": "Mocking and Prototyping",
+      "description": "These cool resources will help you in the process of creating low to higher fidelity prototypes for your product."
+    },
+    {
+      "url": "high-fidelity-prototyping",
+      "name": "High Fidelity Prototyping",
+      "description": "These cool resources will help you create high fidelity prototypes for your product so your boss can't tell the difference with the real application."
+    },
+    {
+      "url": "design-feedback",
+      "name": "Design Feedback",
+      "description": "These cool resources will allow you receive the always positive design feebdack. You know, make that logo bigger and so on."
+    },
+    {
+      "url": "live-chat",
+      "name": "Live chat",
+      "description": "These cool resources will help you interact with your users while they're using your product. Be nice and don't scare them."
+    },
+    {
+      "url": "presentations",
+      "name": "Presentations",
+      "description": "These cool resources will help you craft presentations to share your discoveries and get nervous speaking in public."
+    },
+    {
+      "url": "story-mapping",
+      "name": "Story Mapping",
+      "description": "These cool resources will help you craft your user story mapping."
+    },
+    {
+      "url": "design-guide-patterns",
+      "name": "Design Guide Patterns",
+      "description": "These cool resources will help you with define the UI design patterns of your product by getting inspired (hehe) by the best."
+    },
+    {
+      "url": "media-graphic",
+      "name": "Media and Graphic",
+      "description": "These cool resources will help you choose colors and pictures, because that's the only important part of every design and you know it."
+    },
+    {
+      "url": "typography",
+      "name": "Typography",
+      "description": "These cool resources will help you choose the best font for your product. Or just use Comic Sans, it's the new black."
+    },
+    {
+      "url": "screen-grabbing",
+      "name": "Screen grabbing",
+      "description": "These cool resources will help you capture screenshots, because a picture is worth a t... well, you know."
+    },
+    {
+      "url": "landing-page",
+      "name": "Landing Page Generators",
+      "description": "These cool resources will help you with the creation of landing pages, fast and clean. Feel like a developer."
+    },
+    {
+      "url": "ab-split-testing",
+      "name": "A/B and Split Testing",
+      "description": "These cool resources will help you with making the most of your A/B tests so your boss can turn down data-based decisions."
+    },
+    {
+      "url": "web-mobile-analytics",
+      "name": "Web and Mobile analytics",
+      "description": "These cool resources will help you learn from your visitors activity on your web or application. You are not gonna like it."
+    },
+    {
+      "url": "web-performance-optimization",
+      "name": "Web Performance Optimization",
+      "description": "These cool resources will help you improve the page speed of your product. Make things fast, people."
+    },
+    {
+      "url": "accessibility",
+      "name": "Accessibility",
+      "description": "These cool resources will help you achieve the desired accessibility for your product. Accessibility is a requirement, not a nice-to-have. Be cool."
+    },
+    {
+      "url": "ux-suite",
+      "name": "UX Suite",
+      "description": "These cool resources will provide you with all the tools you need to learn from your users. A tool to rule them all."
+    },
+    {
+      "url": "notetaking",
+      "name": "Scrapbooking and Notetaking",
+      "description": "These cool resources will help you see the relation between various ideas and information and gather thoughts. So, in plain English, tools to write things down."
+    },
+    {
+      "url": "project-management",
+      "name": "Project Management",
+      "description": "These cool resources will help you manage your UX project - good luck!"
+    }
+  ]
+}

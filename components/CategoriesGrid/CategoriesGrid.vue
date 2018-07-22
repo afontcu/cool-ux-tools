@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import { categories } from '~/data/data.json'
+import { categories } from '~/data/categories.json'
 
 export default {
   name: 'CategoriesGrid',

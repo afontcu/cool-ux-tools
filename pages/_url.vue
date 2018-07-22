@@ -17,7 +17,7 @@
 <script>
 import CoolResource from '@/components/CoolResource'
 import FancyLink from '@/components/FancyLink'
-import { resources } from '~/data/data.json'
+import { resources } from '~/data/resources.json'
 
 export default {
   head () {
@@ -33,7 +33,7 @@ export default {
     FancyLink,
   },
   asyncData ({ route, error }) {
-    const { categories } = require('~/data/data.json')
+    const { categories } = require('~/data/categories.json')
     const category = categories.find(c => c.url === route.params.url)
 
     if (!category) {

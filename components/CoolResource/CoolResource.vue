@@ -23,7 +23,6 @@
 
 <script>
 import FancyLink from '@/components/FancyLink'
-import descriptions from '~/data/descr.json'
 import CoolResourceImage from './CoolResourceImage'
 
 export default {
@@ -37,17 +36,9 @@ export default {
     link: { required: true, type: String },
     name: { required: true, type: String },
     image: { required: true, type: String },
-  },
-  data () {
-    return {
-      descriptions,
-    }
+    description: { required: true, type: String },
   },
   computed: {
-    description () {
-      const selectedResource = this.descriptions.find(d => d.link === this.link)
-      return selectedResource ? selectedResource.description : ''
-    },
     imageSrc () {
       return `/logos${this.image}`
     },
